@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi comrades! / 同志，你好！ 👋
 
-<!--
-**retsuakiko/retsuakiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here's RetsuAkiko. <br>
+这里是烈覺子。
 
-Here are some ideas to get you started:
+## Intro | 简介
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Marxist | LGBT+ Friendly🏳️‍🌈 | Living in Singapore🇸🇬 ｜ English
+<br>
+马克思主义者 ｜ 性少数（LGBT+）友好🏳️‍🌈 ｜ 现居新加坡🇸🇬 ｜ 中文（简体&繁体）
+
+<br>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=retsuakiko&hide=issues&show_icons=true&line_height=24&hide_title=true&hide_border=true&theme=vue-dark)
