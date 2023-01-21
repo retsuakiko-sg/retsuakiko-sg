@@ -11,4 +11,4 @@ Marxist | LGBT+ Friendly🏳️‍🌈 | Living in Singapore🇸🇬 ｜ English
 
 <br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=retsuakiko&hide=issues&show_icons=true&line_height=24&hide_title=true&hide_border=true&theme=vue-dark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=retsuakiko-sg&hide=issues&show_icons=true&line_height=24&hide_title=true&hide_border=true&theme=vue-dark)
