@@ -1,0 +1,3315 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///C:/Users/%E5%85%B0%E6%9E%97%E6%B3%A2/Downloads/mtr%20newhongqi.org.htm
+Subject: mtr newhongqi.org
+Date: Thu, 26 Jan 2023 17:34:16 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--L5KqrmSzouKfXAHe1uoCRLI1hcCbmmADzaljoiyOFA----"
+
+
+------MultipartBoundary--L5KqrmSzouKfXAHe1uoCRLI1hcCbmmADzaljoiyOFA----
+Content-Type: text/html
+Content-ID: <frame-40578B63DC99158D53A8FA266B8228FF@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/%E5%85%B0%E6%9E%97%E6%B3%A2/Downloads/mtr%20newhongqi.org.htm
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd"><html><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-cf2a8e5d-0b9f-4bca-9470-43635cc93f71@mhtml.blink" />
+        <title>mtr newhongqi.org</title>
+<meta id=3D"Viewport" name=3D"viewport" content=3D"width=3Ddevice-width, in=
+itial-scale=3D1, maximum-scale=3D1, minimum-scale=3D1, user-scalable=3Dno">=
+        <meta name=3D"GENERATOR" content=3D"Hands">
+       =20
+        <meta http-equiv=3D"Pragma" content=3D"no-cache">
+        <meta name=3D"description" http-equiv=3D"description" content=3D"Th=
+e Best Ping+MTR combination Ever, plus TCP port checker and DNS diagnostics=
+ with dig from multiple locations.">
+
+       =20
+
+                       =20
+               =20
+       =20
+    </head>
+<body>
+<div id=3D"main-div" style=3D"max-width:1050px; margin: 0 auto;">
+   =20
+    <table style=3D"background-color:#202020; border-radius:5px; width:100%=
+; white-space: nowrap;" cellspacing=3D"5" cellpadding=3D"5">
+    <tbody><tr>
+    <td>
+        <form action=3D"file:///C:/" method=3D"POST">
+            <input id=3D"query" style=3D"max-width:350px; width:calc(100% -=
+ 129px); box-sizing: border-box;" placeholder=3D"mtr" type=3D"text" autocor=
+rect=3D"off" autocapitalize=3D"none" spellcheck=3D"false" name=3D"query" si=
+ze=3D"15" value=3D"newhongqi.org" autofocus=3D"">=20
+            <input type=3D"submit" value=3D"&nbsp;Go&nbsp;">
+        </form>
+
+    </td>
+    <td style=3D"text-align:right"><button id=3D"helpButton">Help</button> =
+           =20
+               =20
+           =20
+    </td>
+    </tr>
+    </tbody></table>
+   =20
+   =20
+
+    <div id=3D"settingsDiv" style=3D"display:none; background-color: #00300=
+0; border: 1px solid #155015; border-radius:5px; margin-top:15px; padding:1=
+0px">
+        <form action=3D"file:///C:/newhongqi.org" method=3D"POST">
+            =20
+            <div style=3D"display: flex; flex-wrap: wrap;">=20
+                <div style=3D"padding:5px">
+                Interval (2=E2=80=9320 seconds):=20
+                </div>
+                <div>
+                <input class=3D"input_settings" type=3D"text" name=3D"inter=
+val_value_s" size=3D"4">=20
+                </div>
+            </div>
+            <div style=3D"display: flex; flex-wrap: wrap; padding-top:15px;=
+">=20
+                <div style=3D"padding:5px">
+                Dense Mode
+                </div>
+                <div>
+                <label class=3D"switch">
+                    <input type=3D"checkbox" name=3D"set_dense_mode_checkbo=
+x">=20
+                    <span class=3D"slider"></span>
+                </label>
+                </div>
+            </div>
+            <div style=3D"display: flex; flex-wrap: wrap; border-top:1px so=
+lid #155015; padding:5px; padding-top:10px; margin-top:15px;">=20
+                <input class=3D"button_settings" type=3D"submit" value=3D"S=
+ave settings">
+            </div>
+            <div style=3D"display: flex; flex-wrap: wrap; padding-top:15px;=
+">=20
+                To change defaults, check out 'set' command description on =
+the front page
+            </div>
+        </form>
+    </div><div id=3D"helpDiv" style=3D"display:none"><p style=3D"color:#c0c=
+0c0">Query format: &lt;COMMAND&gt; &lt;SUBJECT&gt; </p><table style=3D"bord=
+er-collapse: collapse; color:#c0c0c0"><tbody><tr><td>QUERY: </td><td><span =
+class=3D"span_usage_command">ping IP</span></td></tr><tr><td>EXAMPLES: </td=
+><td><nobr>ping 1.2.3.4</nobr><br><nobr>ping example.com</nobr><br><nobr>pi=
+ng6 google.com</nobr><br></td></tr><tr><td>DESCRIPTION:&nbsp;&nbsp;&nbsp;</=
+td><td style=3D"padding-bottom:10px;">Full ping and mtr test. Use ping6 ali=
+as to force ipv6.</td></tr><tr style=3D"border-top: 1px solid #404040;"><td=
+></td><td></td></tr><tr><td>QUERY: </td><td><span class=3D"span_usage_comma=
+nd">mtr IP</span></td></tr><tr><td>EXAMPLES: </td><td><nobr>mtr 1.2.3.4</no=
+br><br><nobr>mtr example.com</nobr><br><nobr>mtr6 google.com</nobr><br></td=
+></tr><tr><td>DESCRIPTION:&nbsp;&nbsp;&nbsp;</td><td style=3D"padding-botto=
+m:10px;">Just the mtr test. Use mtr6 alias to force ipv6.</td></tr><tr styl=
+e=3D"border-top: 1px solid #404040;"><td></td><td></td></tr><tr><td>QUERY: =
+</td><td><span class=3D"span_usage_command">chart IP</span></td></tr><tr><t=
+d>EXAMPLES: </td><td><nobr>chart 1.2.3.4</nobr><br><nobr>chart example.com<=
+/nobr><br><nobr>chart6 example.com</nobr><br></td></tr><tr><td>DESCRIPTION:=
+&nbsp;&nbsp;&nbsp;</td><td style=3D"padding-bottom:10px;">Ping with less te=
+xt, more charting. Use chart6 alias to force ipv6.</td></tr><tr style=3D"bo=
+rder-top: 1px solid #404040;"><td></td><td></td></tr><tr><td>QUERY: </td><t=
+d><span class=3D"span_usage_command">tcp IP:PORT</span></td></tr><tr><td>EX=
+AMPLES: </td><td><nobr>tcp 1.2.3.4:80</nobr><br><nobr>tcp example.com:443</=
+nobr><br><nobr>tcp6 google.com:443</nobr><br></td></tr><tr><td>DESCRIPTION:=
+&nbsp;&nbsp;&nbsp;</td><td style=3D"padding-bottom:10px;">TCP
+ port accessibility test. Make sure something is LISTENING for incoming=20
+connections on that port on target machine. PORT can be omitted, then=20
+default 80 will be used. Use tcp6 alias to force ipv6.</td></tr><tr style=
+=3D"border-top: 1px solid #404040;"><td></td><td></td></tr><tr><td>QUERY: <=
+/td><td><span class=3D"span_usage_command">port IP:PORT</span></td></tr><tr=
+><td>EXAMPLES: </td><td><nobr>port 1.2.3.4:80</nobr><br><nobr>port example.=
+com:443</nobr><br></td></tr><tr><td>DESCRIPTION:&nbsp;&nbsp;&nbsp;</td><td =
+style=3D"padding-bottom:10px;">Alias of tcp command.</td></tr><tr style=3D"=
+border-top: 1px solid #404040;"><td></td><td></td></tr><tr><td>QUERY: </td>=
+<td><span class=3D"span_usage_command">dig HOST:TYPE:NAMESERVER</span></td>=
+</tr><tr><td>EXAMPLES: </td><td><nobr>dig example.com:A:8.8.8.8</nobr><br><=
+nobr>dig 1.2.3.4:PTR:1.0.0.1</nobr><br><nobr>dig example.com:AAAA</nobr><br=
+><nobr>dig example.com</nobr><br></td></tr><tr><td>DESCRIPTION:&nbsp;&nbsp;=
+&nbsp;</td><td style=3D"padding-bottom:10px;">DNS
+ record lookup. Supported TYPEs: A, AAAA, CNAME, TXT, MX, NS, PTR. TYPE=20
+can be omitted, then default A will be used. NAMESERVER can be omitted,=20
+then default 8.8.8.8 will be used.</td></tr><tr style=3D"border-top: 1px so=
+lid #404040;"><td></td><td></td></tr><tr><td>QUERY: </td><td><span class=3D=
+"span_usage_command">set variable=3Dvalue</span></td></tr><tr><td>EXAMPLES:=
+ </td><td><nobr>set interval=3D4 (default:5)</nobr><br><nobr>set dense_mode=
+=3D1 (default:0)</nobr><br></td></tr><tr><td>DESCRIPTION:&nbsp;&nbsp;&nbsp;=
+</td><td style=3D"padding-bottom:10px;">Configure ping.pe default values li=
+ke Interval (in seconds) and Dense mode (0/1).</td></tr><tr style=3D"border=
+-top: 1px solid #404040;"><td></td><td></td></tr></tbody></table><table sty=
+le=3D"border-collapse: collapse; width:100%; margin:0px; padding:0px; color=
+:#c0c0c0" cellspacing=3D"0" cellpadding=3D"0"><tbody><tr><td> =20
+        <p style=3D"color:#c0c0c0">
+            In some cases COMMAND can be omitted and ping.pe will figure it=
+ out automatically.=20
+        </p><p style=3D"color:#c0c0c0">
+            For example, when a query contains just one IP or DOMAIN, then =
+omitted 'ping' command will be implied.=20
+            If there is a single semicolon in the query, 'tcp' command will=
+ be implied etc.
+        </p><p style=3D"color:#c0c0c0">
+            Additionally, you can use domain name to indicate COMMAND:
+        </p><p style=3D"color:#c0c0c0">
+            ping.pe/SUBJECT =E2=80=93 assumed command: ping
+            <br>
+            ping6.ping.pe/SUBJECT =E2=80=93 assumed command: ping6
+            <br>
+            chart.ping.pe/SUBJECT =E2=80=93 assumed command: chart
+            <br>
+            chart6.ping.pe/SUBJECT =E2=80=93 assumed command: chart6
+            <br>
+            tcp.ping.pe/SUBJECT =E2=80=93 assumed command: tcp
+            <br>
+            tcp6.ping.pe/SUBJECT =E2=80=93 assumed command: tcp6
+            <br>
+            port.ping.pe/SUBJECT =E2=80=93 assumed command: tcp
+            <br>
+            dig.ping.pe/SUBJECT =E2=80=93 assumed command: dig
+            <br>
+        </p><p>
+        </p></td></tr><tr style=3D"border-top: 1px solid #404040;"><td></td=
+></tr></tbody></table></div><div id=3D"page-div" style=3D"width:100%"><p>Qu=
+ery: mtr newhongqi.org [172.67.168.127]</p>
+
+
+
+
+
+<table id=3D"megatable" class=3D"pingtable" width=3D"100%" cellspacing=3D"0=
+" cellpadding=3D"0">
+<tbody><tr>
+    <th>Location</th>
+    <th>ISP</th>
+    <th id=3D"allMtrToggle" style=3D"cursor: pointer;">MTR [Show/hide all]<=
+/th>
+</tr>
+
+
+
+
+
+
+        <tr id=3D"ping-CA_BC_2-tr">
+            <td id=3D"ping-CA_BC_2-location">
+                Canada, BC, Vancouver
+            </td>
+            <td id=3D"ping-CA_BC_2-provider">
+                Shaw
+            </td>
+            <td id=3D"ping-CA_BC_2-mtr" style=3D"width:99%">
+                <span id=3D"td-CA_BC_2-mtr-report-show" style=3D"color: rgb=
+(16, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-CA_BC_2-mtr-report-loading" style=3D"color: =
+rgb(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-CA_BC_2-mtr-report" style=3D"background-color: rgb(0, 24, =
+0); outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-CA_BC_2-mtr-report">=
+0.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/24.86.248.0"><span>24=
+.86.248.0</span></a>      Loss%  Snt   Last  Avg   Best  Wrst  StDev AS Nam=
+e                         PTR
+1.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/192.168.20.1"><span>1=
+92.168.20.1</span></a>     80.0%  20    0.1   0.2   0.1   0.2   0.0   -
+2.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/24.86.224.1"><span>24=
+.86.224.1</span></a>      0.0%   20    8.9   10.6  8.3   19.7  2.8   <a tar=
+get=3D"_blank" href=3D"http://bgp.he.net/AS6327" title=3D"SHAW"><span>6327 =
+ CA SHAW</span></a>             <span title=3D""></span>
+3.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/64.59.147.153"><span>=
+64.59.147.153</span></a>    0.0%   20    13.2  33.3  8.9   149.5 46.3  <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS6327" title=3D"SHAW"><span>632=
+7  CA SHAW</span></a>             <span title=3D"rc1bb-be137-1.vc.shawcable=
+.net">rc1bb-be137-1.vc.shawcable.net</span>
+4.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/24.244.59.5"><span>24=
+.244.59.5</span></a>      0.0%   20    10.4  29.5  9.4   104.9 33.0  <a tar=
+get=3D"_blank" href=3D"http://bgp.he.net/AS6327" title=3D"SHAW"><span>6327 =
+ CA SHAW</span></a>             <span title=3D""></span>
+5.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/24.244.58.53"><span>2=
+4.244.58.53</span></a>     10.0%  20    14.0  35.5  9.5   175.7 46.9  <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS6327" title=3D"SHAW"><span>6327=
+  CA SHAW</span></a>             <span title=3D""></span>
+6.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/24.244.58.61"><span>2=
+4.244.58.61</span></a>     0.0%   20    10.5  23.6  8.6   93.6  23.2  <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS6327" title=3D"SHAW"><span>6327=
+  CA SHAW</span></a>             <span title=3D"rc1bb-be214.vc.shawcable.ne=
+t">rc1bb-be214.vc.shawcable.net</span>
+7.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/66.163.76.66"><span>6=
+6.163.76.66</span></a>     0.0%   20    27.0  25.0  14.1  67.5  12.0  <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS6327" title=3D"SHAW"><span>6327=
+  CA SHAW</span></a>             <span title=3D"rc1wt.wa.shawcable.net">rc1=
+wt.wa.shawcable.net</span>
+8.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/206.72.211.63"><span>=
+206.72.211.63</span></a>    40.0%  20    49.8  48.2  42.7  62.3  5.0   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS9009" title=3D"M247 M247 Europ=
+e SRL"><span>9009  RO M247 M247 Europe</span></a> <span title=3D"cloudflare=
+.as13335.any2ix.coresite.com">cloudflare.as13335.any2ix.cor...</span>
+9.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.70.212.4"><span>1=
+72.70.212.4</span></a>     0.0%   20    47.2  50.1  43.8  70.2  7.7   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET">=
+<span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+10. <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   0.0%   20    42.8  44.2  42.6  50.8  2.3   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-US_CA_5-tr">
+            <td id=3D"ping-US_CA_5-location">
+                USA, CA, Fremont
+            </td>
+            <td id=3D"ping-US_CA_5-provider">
+                Hurricane FMT2
+            </td>
+            <td id=3D"ping-US_CA_5-mtr" style=3D"width:99%">
+                <span id=3D"td-US_CA_5-mtr-report-show" style=3D"color: rgb=
+(16, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-US_CA_5-mtr-report-loading" style=3D"color: =
+rgb(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-US_CA_5-mtr-report" style=3D"background-color: rgb(0, 24, =
+0); outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-US_CA_5-mtr-report">=
+0.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/174.137.48.0"><span>1=
+74.137.48.0</span></a>     Loss%  Snt   Last  Avg   Best  Wrst  StDev AS Na=
+me                         PTR
+1   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.22.52.200"><span>=
+172.22.52.200</span></a>    0.0%   20    0.8   1.6   0.7   2.3   0.0   -
+2   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/216.218.193.157"><spa=
+n>216.218.193.157</span></a>  0.0%   20    0.4   4.1   0.4   56.3  12.6  <a=
+ target=3D"_blank" href=3D"http://bgp.he.net/AS6939" title=3D"HURRICANE"><s=
+pan>6939  US HURRICANE</span></a>        <span title=3D"e0-38.switch11.fmt2=
+.he.net">e0-38.switch11.fmt2.he.net</span>
+3   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/72.52.92.246"><span>7=
+2.52.92.246</span></a>     85.0%  20    3.5   1.9   1.0   3.5   1.4   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS6939" title=3D"HURRICANE"><span=
+>6939  US HURRICANE</span></a>        <span title=3D"port-channel4.core4.sj=
+c2.he.net">port-channel4.core4.sjc2.he.net</span>
+4   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/206.223.116.237"><spa=
+n>206.223.116.237</span></a>  0.0%   20    1.4   3.3   1.2   27.8  6.0   -
+5   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.68.188.20"><span>=
+172.68.188.20</span></a>    0.0%   20    4.3   3.4   1.1   21.9  4.9   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET"=
+><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+6   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   0.0%   20    1.2   1.1   1.0   1.2   0.0   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-US_CA_10-tr">
+            <td id=3D"ping-US_CA_10-location">
+                USA, CA, Fremont
+            </td>
+            <td id=3D"ping-US_CA_10-provider">
+                Linode
+            </td>
+            <td id=3D"ping-US_CA_10-mtr" style=3D"width:99%">
+                <span id=3D"td-US_CA_10-mtr-report-show" style=3D"color: rg=
+b(16, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-US_CA_10-mtr-report-loading" style=3D"color:=
+ rgb(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-US_CA_10-mtr-report" style=3D"background-color: rgb(0, 24,=
+ 0); outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-US_CA_10-mtr-report"=
+>0.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/173.255.209.0"><span=
+>173.255.209.0</span></a>    Loss%  Snt   Last  Avg   Best  Wrst  StDev AS =
+Name                         PTR
+1   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/23.92.24.3"><span>23.=
+92.24.3</span></a>       0.0%   20    0.6   0.7   0.5   1.0   0.0   <a targ=
+et=3D"_blank" href=3D"http://bgp.he.net/AS63949" title=3D"AKAMAI-AP Akamai =
+Technologies, Inc."><span>63949 SG AKAMAI-AP Akamai</span></a> <span title=
+=3D""></span>
+2   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/173.230.159.64"><span=
+>173.230.159.64</span></a>   0.0%   20    0.6   2.5   0.3   39.5  8.7   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS63949" title=3D"AKAMAI-AP Aka=
+mai Technologies, Inc."><span>63949 SG AKAMAI-AP Akamai</span></a> <span ti=
+tle=3D"if-11-1-5-0.gw1.fnc1.us.linode.com">if-11-1-5-0.gw1.fnc1.us.linod...=
+</span>
+3   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/213.52.131.187"><span=
+>213.52.131.187</span></a>   0.0%   20    1.6   3.7   1.6   41.0  8.8   -
+4   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/23.203.158.50"><span>=
+23.203.158.50</span></a>    0.0%   20    2.0   2.0   1.9   2.1   0.0   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS20940" title=3D"AKAMAI-ASN1"><=
+span>20940 NL AKAMAI-ASN1</span></a>      <span title=3D"ae56.r11.sjc01.ien=
+.netarch.akamai.com">ae56.r11.sjc01.ien.netarch.ak...</span>
+5   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.68.188.86"><span>=
+172.68.188.86</span></a>    0.0%   20    4.8   4.4   2.5   22.1  5.0   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET"=
+><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+6   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.71.156.2"><span>1=
+72.71.156.2</span></a>     0.0%   20    3.2   3.4   2.3   10.8  1.9   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET">=
+<span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+7   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   0.0%   20    2.6   2.7   2.4   6.9   0.9   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-US_CA_20-tr">
+            <td id=3D"ping-US_CA_20-location">
+                USA, CA, San Francisco
+            </td>
+            <td id=3D"ping-US_CA_20-provider">
+                Digital Ocean
+            </td>
+            <td id=3D"ping-US_CA_20-mtr" style=3D"width:99%">
+                <span id=3D"td-US_CA_20-mtr-report-show" style=3D"color: rg=
+b(16, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-US_CA_20-mtr-report-loading" style=3D"color:=
+ rgb(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-US_CA_20-mtr-report" style=3D"background-color: rgb(0, 24,=
+ 0); outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-US_CA_20-mtr-report"=
+>0.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/165.227.48.0"><span>=
+165.227.48.0</span></a>     Loss%  Snt   Last  Avg   Best  Wrst  StDev AS N=
+ame                         PTR
+1   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/???"><span>???</span>=
+</a>              100.0  20    0.0   0.0   0.0   0.0   0.0   -
+2   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.64.5.36"><span>10.=
+64.5.36</span></a>       0.0%   20    0.5   1.8   0.4   14.4  3.4   -
+3   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/138.197.249.168"><spa=
+n>138.197.249.168</span></a>  0.0%   20    1.1   2.0   0.8   13.1  2.9   -
+4   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/138.197.249.188"><spa=
+n>138.197.249.188</span></a>  0.0%   20    0.7   2.4   0.5   32.1  7.0   -
+5   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/138.197.244.247"><spa=
+n>138.197.244.247</span></a>  0.0%   20    1.1   1.2   1.1   1.5   0.0   -
+6   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/138.197.245.112"><spa=
+n>138.197.245.112</span></a>  0.0%   20    4.9   2.9   1.1   27.4  5.8   -
+7   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/206.223.116.237"><spa=
+n>206.223.116.237</span></a>  0.0%   20    1.6   3.7   1.5   34.6  7.3   -
+8   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.68.188.20"><span>=
+172.68.188.20</span></a>    0.0%   20    1.3   3.6   1.3   11.8  3.6   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET"=
+><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+9   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   0.0%   20    1.2   1.3   1.2   1.6   0.0   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-US_CA_35-tr">
+            <td id=3D"ping-US_CA_35-location">
+                USA, CA, Los Angeles
+            </td>
+            <td id=3D"ping-US_CA_35-provider">
+                Vultr
+            </td>
+            <td id=3D"ping-US_CA_35-mtr" style=3D"width:99%">
+                <span id=3D"td-US_CA_35-mtr-report-show" style=3D"color: rg=
+b(16, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-US_CA_35-mtr-report-loading" style=3D"color:=
+ rgb(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-US_CA_35-mtr-report" style=3D"background-color: rgb(0, 24,=
+ 0); outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-US_CA_35-mtr-report"=
+>0.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/144.202.112.0"><span=
+>144.202.112.0</span></a>    Loss%  Snt   Last  Avg   Best  Wrst  StDev AS =
+Name                         PTR
+1   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/???"><span>???</span>=
+</a>              100.0  20    0.0   0.0   0.0   0.0   0.0   -
+2   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/100.100.100.1"><span>=
+100.100.100.1</span></a>    10.0%  20    0.2   0.3   0.2   0.3   0.0   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS25472" title=3D"WIND-AS Nova T=
+elecommunications &amp; Media Single Member S.A"><span>25472 GR WIND-AS Nov=
+a</span></a>     <span title=3D""></span>
+3   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.68.3.157"><span>10=
+.68.3.157</span></a>      0.0%   20    0.9   5.0   0.8   50.4  11.2  -
+4   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.68.1.250"><span>10=
+.68.1.250</span></a>      0.0%   20    0.9   3.4   0.9   18.2  4.9   -
+5   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.68.1.245"><span>10=
+.68.1.245</span></a>      0.0%   20    0.8   2.2   0.8   9.5   2.3   -
+6   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/206.72.211.63"><span>=
+206.72.211.63</span></a>    30.0%  20    1.2   3.9   0.9   21.1  5.8   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS9009" title=3D"M247 M247 Europ=
+e SRL"><span>9009  RO M247 M247 Europe</span></a> <span title=3D"cloudflare=
+.as13335.any2ix.coresite.com">cloudflare.as13335.any2ix.cor...</span>
+7   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/162.158.88.5"><span>1=
+62.158.88.5</span></a>     0.0%   20    1.8   2.5   1.0   13.2  2.8   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET">=
+<span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+8   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   0.0%   20    1.0   1.0   0.9   1.2   0.0   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-US_CA_40-tr">
+            <td id=3D"ping-US_CA_40-location">
+                USA, CA, Seattle
+            </td>
+            <td id=3D"ping-US_CA_40-provider">
+                Google
+            </td>
+            <td id=3D"ping-US_CA_40-mtr" style=3D"width:99%">
+                <span id=3D"td-US_CA_40-mtr-report-show" style=3D"color: rg=
+b(16, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-US_CA_40-mtr-report-loading" style=3D"color:=
+ rgb(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-US_CA_40-mtr-report" style=3D"background-color: rgb(0, 24,=
+ 0); outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-US_CA_40-mtr-report"=
+>0.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/35.197.10.0"><span>3=
+5.197.10.0</span></a>      Loss%  Snt   Last  Avg   Best  Wrst  StDev AS Na=
+me                         PTR
+1   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/???"><span>???</span>=
+</a>              100.0  20    0.0   0.0   0.0   0.0   0.0   -
+2   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   0.0%   20    17.2  17.2  17.1  17.4  0.0   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-US_CO_1-tr">
+            <td id=3D"ping-US_CO_1-location">
+                USA, CO, Denver
+            </td>
+            <td id=3D"ping-US_CO_1-provider">
+                Cogent
+            </td>
+            <td id=3D"ping-US_CO_1-mtr" style=3D"width:99%">
+                <span id=3D"td-US_CO_1-mtr-report-show" style=3D"color: rgb=
+(16, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-US_CO_1-mtr-report-loading" style=3D"color: =
+rgb(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-US_CO_1-mtr-report" style=3D"background-color: rgb(0, 24, =
+0); outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-US_CO_1-mtr-report">=
+0.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/23.237.26.0"><span>23=
+.237.26.0</span></a>      Loss%  Snt   Last  Avg   Best  Wrst  StDev AS Nam=
+e                         PTR
+1   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/23.237.26.1"><span>23=
+.237.26.1</span></a>      0.0%   20    1.6   1.7   0.8   9.2   1.8   <a tar=
+get=3D"_blank" href=3D"http://bgp.he.net/AS174" title=3D"COGENT-174"><span>=
+174   US COGENT</span></a>           <span title=3D""></span>
+2   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/38.140.32.241"><span>=
+38.140.32.241</span></a>    0.0%   20    0.8   1.4   0.7   9.1   1.8   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS174" title=3D"COGENT-174"><spa=
+n>174   US COGENT</span></a>           <span title=3D"be4792.rcr21.b000577-=
+1.den01.atlas.cogentco.com">be4792.rcr21.b000577-1.den01...</span>
+3   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/154.54.85.53"><span>1=
+54.54.85.53</span></a>     0.0%   20    1.6   1.6   1.3   2.3   0.0   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS174" title=3D"COGENT-174"><span=
+>174   US COGENT</span></a>           <span title=3D"be2148.ccr21.den01.atl=
+as.cogentco.com">be2148.ccr21.den01.atlas.coge...</span>
+4   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/154.54.88.42"><span>1=
+54.54.88.42</span></a>     0.0%   20    1.9   1.9   1.6   4.6   0.6   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS174" title=3D"COGENT-174"><span=
+>174   US COGENT</span></a>           <span title=3D"be2401.rcr21.b006467-6=
+.den01.atlas.cogentco.com">be2401.rcr21.b006467-6.den01...</span>
+5   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/38.140.185.234"><span=
+>38.140.185.234</span></a>   0.0%   20    16.5  5.0   1.6   22.6  6.4   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS174" title=3D"COGENT-174"><sp=
+an>174   US COGENT</span></a>           <span title=3D""></span>
+6   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   0.0%   20    1.7   2.1   1.5   6.2   0.9   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-US_TX_1-tr">
+            <td id=3D"ping-US_TX_1-location">
+                USA, TX, Dallas
+            </td>
+            <td id=3D"ping-US_TX_1-provider">
+                Softlayer
+            </td>
+            <td id=3D"ping-US_TX_1-mtr" style=3D"width:99%">
+                <span id=3D"td-US_TX_1-mtr-report-show" style=3D"color: rgb=
+(16, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-US_TX_1-mtr-report-loading" style=3D"color: =
+rgb(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-US_TX_1-mtr-report" style=3D"background-color: rgb(0, 24, =
+0); outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-US_TX_1-mtr-report">=
+0.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/169.54.194.0"><span>1=
+69.54.194.0</span></a>     Loss%  Snt   Last  Avg   Best  Wrst  StDev AS Na=
+me                         PTR
+1.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.121.211.11"><span>=
+10.121.211.11</span></a>    0.0%   20    0.1   0.1   0.1   0.1   0.0   -
+2.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/198.23.118.136"><span=
+>198.23.118.136</span></a>   0.0%   20    0.7   0.8   0.5   3.1   0.6   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS36351" title=3D"SOFTLAYER"><s=
+pan>36351 US SOFTLAYER</span></a>        <span title=3D"ae12.dar02.dal09.ne=
+tworklayer.com">ae12.dar02.dal09.networklayer...</span>
+3.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/50.97.17.222"><span>5=
+0.97.17.222</span></a>     20.0%  20    2.3   2.7   1.8   4.1   0.8   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS36351" title=3D"SOFTLAYER"><spa=
+n>36351 US SOFTLAYER</span></a>        <span title=3D"ae13.cbs02.eq01.dal03=
+.networklayer.com">ae13.cbs02.eq01.dal03.network...</span>
+4.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/50.97.17.57"><span>50=
+.97.17.57</span></a>      0.0%   20    1.6   2.3   1.3   13.1  2.6   <a tar=
+get=3D"_blank" href=3D"http://bgp.he.net/AS36351" title=3D"SOFTLAYER"><span=
+>36351 US SOFTLAYER</span></a>        <span title=3D"ae34.bbr01.eq01.dal03.=
+networklayer.com">ae34.bbr01.eq01.dal03.network...</span>
+5.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/206.223.118.145"><spa=
+n>206.223.118.145</span></a>  25.0%  20    2.6   3.7   1.8   13.3  3.4   <a=
+ target=3D"_blank" href=3D"http://bgp.he.net/AS32098" title=3D"TRANSTELCO-I=
+NC"><span>32098 US TRANSTELCO</span></a>       <span title=3D"111100.dal.eq=
+uinix.com">111100.dal.equinix.com</span>
+6.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.71.168.2"><span>1=
+72.71.168.2</span></a>     0.0%   20    2.7   4.4   1.9   21.6  5.4   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET">=
+<span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+7.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   0.0%   20    1.6   1.6   1.5   1.9   0.1   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-US_IL_1-tr">
+            <td id=3D"ping-US_IL_1-location">
+                USA, IL, Chicago
+            </td>
+            <td id=3D"ping-US_IL_1-provider">
+                Cogent
+            </td>
+            <td id=3D"ping-US_IL_1-mtr" style=3D"width:99%">
+                <span id=3D"td-US_IL_1-mtr-report-show" style=3D"color: rgb=
+(16, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-US_IL_1-mtr-report-loading" style=3D"color: =
+rgb(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-US_IL_1-mtr-report" style=3D"background-color: rgb(0, 24, =
+0); outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-US_IL_1-mtr-report">=
+0.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/50.7.8.0"><span>50.7.=
+8.0</span></a>         Loss%  Snt   Last  Avg   Best  Wrst  StDev AS Name  =
+                       PTR
+1   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.10.100.1"><span>10=
+.10.100.1</span></a>      0.0%   20    1.0   1.1   0.9   1.6   0.0   -
+2   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/23.237.126.225"><span=
+>23.237.126.225</span></a>   0.0%   20    4.5   5.8   1.6   34.0  6.9   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS174" title=3D"COGENT-174"><sp=
+an>174   US COGENT</span></a>           <span title=3D""></span>
+3   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/38.142.58.113"><span>=
+38.142.58.113</span></a>    0.0%   20    1.5   0.9   0.5   1.5   0.0   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS174" title=3D"COGENT-174"><spa=
+n>174   US COGENT</span></a>           <span title=3D"be5688.rcr21.ord07.at=
+las.cogentco.com">be5688.rcr21.ord07.atlas.coge...</span>
+4   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/154.54.89.1"><span>15=
+4.54.89.1</span></a>      0.0%   20    1.2   1.4   1.0   3.3   0.5   <a tar=
+get=3D"_blank" href=3D"http://bgp.he.net/AS174" title=3D"COGENT-174"><span>=
+174   US COGENT</span></a>           <span title=3D"be3803.ccr42.ord01.atla=
+s.cogentco.com">be3803.ccr42.ord01.atlas.coge...</span>
+5   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/154.54.46.178"><span>=
+154.54.46.178</span></a>    0.0%   20    1.0   1.3   1.0   3.1   0.3   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS174" title=3D"COGENT-174"><spa=
+n>174   US COGENT</span></a>           <span title=3D"be2766.ccr41.ord03.at=
+las.cogentco.com">be2766.ccr41.ord03.atlas.coge...</span>
+6   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/38.122.181.134"><span=
+>38.122.181.134</span></a>   0.0%   20    1.6   5.2   1.3   19.6  5.8   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS174" title=3D"COGENT-174"><sp=
+an>174   US COGENT</span></a>           <span title=3D""></span>
+7   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/141.101.73.18"><span>=
+141.101.73.18</span></a>    0.0%   20    26.3  8.0   1.7   35.1  10.2  <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET"=
+><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+8   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   0.0%   20    1.5   1.6   1.4   2.1   0.0   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-US_GA_1-tr">
+            <td id=3D"ping-US_GA_1-location">
+                USA, GA, Atlanta
+            </td>
+            <td id=3D"ping-US_GA_1-provider">
+                55 Marietta/RamNode
+            </td>
+            <td id=3D"ping-US_GA_1-mtr" style=3D"width:99%">
+                <span id=3D"td-US_GA_1-mtr-report-show" style=3D"color: rgb=
+(16, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-US_GA_1-mtr-report-loading" style=3D"color: =
+rgb(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-US_GA_1-mtr-report" style=3D"background-color: rgb(0, 24, =
+0); outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-US_GA_1-mtr-report">=
+0.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/192.184.82.0"><span>1=
+92.184.82.0</span></a>     Loss%  Snt   Last  Avg   Best  Wrst  StDev AS Na=
+me                         PTR
+1.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/???"><span>???</span>=
+</a>              100.0  20    0.0   0.0   0.0   0.0   0.0   -
+2.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/129.250.203.221"><spa=
+n>129.250.203.221</span></a>  0.0%   20    1.5   2.4   0.3   35.7  7.8   <a=
+ target=3D"_blank" href=3D"http://bgp.he.net/AS2914" title=3D"NTT-LTD-2914"=
+><span>2914  US NTT-LTD-2914</span></a>     <span title=3D"xe-2-3-0-1.a02.a=
+tlnga05.us.bb.gin.ntt.net">xe-2-3-0-1.a02.atlnga05.us.bb...</span>
+3.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/129.250.4.192"><span>=
+129.250.4.192</span></a>    0.0%   20    4.2   10.6  0.7   36.6  9.2   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS2914" title=3D"NTT-LTD-2914"><=
+span>2914  US NTT-LTD-2914</span></a>     <span title=3D"ae-5.r24.atlnga05.=
+us.bb.gin.ntt.net">ae-5.r24.atlnga05.us.bb.gin.n...</span>
+4.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/129.250.4.165"><span>=
+129.250.4.165</span></a>    0.0%   20    12.9  15.0  12.7  26.5  4.1   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS2914" title=3D"NTT-LTD-2914"><=
+span>2914  US NTT-LTD-2914</span></a>     <span title=3D"ae-4.r25.asbnva02.=
+us.bb.gin.ntt.net">ae-4.r25.asbnva02.us.bb.gin.n...</span>
+5.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/129.250.3.244"><span>=
+129.250.3.244</span></a>    0.0%   20    17.2  15.7  12.7  24.9  3.9   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS2914" title=3D"NTT-LTD-2914"><=
+span>2914  US NTT-LTD-2914</span></a>     <span title=3D"ae-1.a05.asbnva02.=
+us.bb.gin.ntt.net">ae-1.a05.asbnva02.us.bb.gin.n...</span>
+6.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/128.241.8.7"><span>12=
+8.241.8.7</span></a>      0.0%   20    13.9  17.1  13.3  50.4  9.0   <a tar=
+get=3D"_blank" href=3D"http://bgp.he.net/AS2914" title=3D"NTT-LTD-2914"><sp=
+an>2914  US NTT-LTD-2914</span></a>     <span title=3D"ae-0.cloudflare.asbn=
+va02.us.bb.gin.ntt.net">ae-0.cloudflare.asbnva02.us.b...</span>
+7.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/173.245.63.239"><span=
+>173.245.63.239</span></a>   0.0%   20    46.6  18.2  12.8  46.6  9.8   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+8.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   0.0%   20    12.8  12.8  12.8  13.0  0.1   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-US_VA_1-tr">
+            <td id=3D"ping-US_VA_1-location">
+                USA, VA, Vint Hill
+            </td>
+            <td id=3D"ping-US_VA_1-provider">
+                OVH
+            </td>
+            <td id=3D"ping-US_VA_1-mtr" style=3D"width:99%">
+                <span id=3D"td-US_VA_1-mtr-report-show" style=3D"color: rgb=
+(16, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-US_VA_1-mtr-report-loading" style=3D"color: =
+rgb(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-US_VA_1-mtr-report" style=3D"background-color: rgb(0, 24, =
+0); outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-US_VA_1-mtr-report">=
+0.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/147.135.22.0"><span>1=
+47.135.22.0</span></a>     Loss%  Snt   Last  Avg   Best  Wrst  StDev AS Na=
+me                         PTR
+1   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/51.81.48.252"><span>5=
+1.81.48.252</span></a>     0.0%   20    0.4   0.5   0.4   0.9   0.0   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS16276" title=3D"OVH"><span>1627=
+6 FR OVH</span></a>              <span title=3D""></span>
+2   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.244.1.60"><span>10=
+.244.1.60</span></a>      0.0%   20    0.5   0.5   0.4   0.7   0.0   -
+3   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.244.64.12"><span>1=
+0.244.64.12</span></a>     0.0%   20    0.2   0.2   0.2   0.3   0.0   -
+4   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.244.120.4"><span>1=
+0.244.120.4</span></a>     0.0%   20    0.5   8.7   0.5   72.5  19.7  -
+5   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/178.32.135.154"><span=
+>178.32.135.154</span></a>   0.0%   20    1.8   1.8   1.6   2.1   0.0   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS16276" title=3D"OVH"><span>16=
+276 FR OVH</span></a>              <span title=3D"was-nva1-sbb1-8k.va.us">w=
+as-nva1-sbb1-8k.va.us</span>
+6   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.200.2.205"><span>1=
+0.200.2.205</span></a>     0.0%   20    1.8   122.3 1.8   474.6 127.4 -
+7   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/206.126.237.30"><span=
+>206.126.237.30</span></a>   65.0%  20    2.4   2.4   2.2   2.8   0.0   -
+8   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.71.220.3"><span>1=
+72.71.220.3</span></a>     0.0%   20    2.6   4.9   1.6   36.0  7.9   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET">=
+<span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+9   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   0.0%   20    1.7   1.7   1.6   1.8   0.0   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-US_NY_2-tr">
+            <td id=3D"ping-US_NY_2-location">
+                USA, NY, New York
+            </td>
+            <td id=3D"ping-US_NY_2-provider">
+                Telehouse/RamNode
+            </td>
+            <td id=3D"ping-US_NY_2-mtr" style=3D"width:99%">
+                <span id=3D"td-US_NY_2-mtr-report-show" style=3D"color: rgb=
+(16, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-US_NY_2-mtr-report-loading" style=3D"color: =
+rgb(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-US_NY_2-mtr-report" style=3D"background-color: rgb(0, 24, =
+0); outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-US_NY_2-mtr-report">=
+0.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/168.235.67.0"><span>1=
+68.235.67.0</span></a>     Loss%  Snt   Last  Avg   Best  Wrst  StDev AS Na=
+me                         PTR
+1.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/???"><span>???</span>=
+</a>              100.0  20    0.0   0.0   0.0   0.0   0.0   -
+2.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/62.115.47.29"><span>6=
+2.115.47.29</span></a>     0.0%   20    0.5   0.8   0.5   1.1   0.2   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS1299" title=3D"TWELVE99 Arelion=
+, fka Telia Carrier"><span>1299  SE TWELVE99</span></a>         <span title=
+=3D"nyk-b6-link.ip.twelve99.net">nyk-b6-link.ip.twelve99.net</span>
+3.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/213.248.99.233"><span=
+>213.248.99.233</span></a>   0.0%   20    11.4  3.1   0.8   23.2  5.3   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS1299" title=3D"TWELVE99 Areli=
+on, fka Telia Carrier"><span>1299  SE TWELVE99</span></a>         <span tit=
+le=3D"cloudflare-svc081291-ic371159.ip.twelve99-cust.net">cloudflare-svc081=
+291-ic371159...</span>
+4.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.70.112.4"><span>1=
+72.70.112.4</span></a>     0.0%   20    1.4   3.7   1.2   19.8  4.3   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET">=
+<span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+5.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   0.0%   20    1.2   1.2   1.2   1.3   0.0   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-CA_QC_1-tr">
+            <td id=3D"ping-CA_QC_1-location">
+                Canada, QC, Montreal
+            </td>
+            <td id=3D"ping-CA_QC_1-provider">
+                OVH
+            </td>
+            <td id=3D"ping-CA_QC_1-mtr" style=3D"width:99%">
+                <span id=3D"td-CA_QC_1-mtr-report-show" style=3D"color: rgb=
+(16, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-CA_QC_1-mtr-report-loading" style=3D"color: =
+rgb(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-CA_QC_1-mtr-report" style=3D"background-color: rgb(0, 24, =
+0); outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-CA_QC_1-mtr-report">=
+0.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/192.95.19.0"><span>19=
+2.95.19.0</span></a>      Loss%  Snt   Last  Avg   Best  Wrst  StDev AS Nam=
+e                         PTR
+1   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/192.95.26.127"><span>=
+192.95.26.127</span></a>    95.0%  20    0.2   0.2   0.2   0.2   0.0   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS16276" title=3D"OVH"><span>162=
+76 FR OVH</span></a>              <span title=3D""></span>
+2   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.34.2.58"><span>10.=
+34.2.58</span></a>       0.0%   20    0.8   0.6   0.5   0.9   0.0   -
+3   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.74.8.212"><span>10=
+.74.8.212</span></a>      0.0%   20    0.3   0.3   0.2   0.3   0.0   -
+4   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.95.81.8"><span>10.=
+95.81.8</span></a>       0.0%   20    1.3   17.0  1.3   110.5 34.2  -
+5   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/192.99.146.162"><span=
+>192.99.146.162</span></a>   0.0%   20    7.3   7.5   7.3   7.8   0.0   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS16276" title=3D"OVH"><span>16=
+276 FR OVH</span></a>              <span title=3D"yto-tr1-bb1-a9.on.ca">yto=
+-tr1-bb1-a9.on.ca</span>
+6   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/???"><span>???</span>=
+</a>              100.0  20    0.0   0.0   0.0   0.0   0.0   -
+7   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   0.0%   20    7.6   7.9   7.6   8.1   0.0   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-EU_UK_1-tr">
+            <td id=3D"ping-EU_UK_1-location">
+                UK, London
+            </td>
+            <td id=3D"ping-EU_UK_1-provider">
+                Cogent
+            </td>
+            <td id=3D"ping-EU_UK_1-mtr" style=3D"width:99%">
+                <span id=3D"td-EU_UK_1-mtr-report-show" style=3D"color: rgb=
+(16, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-EU_UK_1-mtr-report-loading" style=3D"color: =
+rgb(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-EU_UK_1-mtr-report" style=3D"background-color: rgb(0, 24, =
+0); outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-EU_UK_1-mtr-report">=
+0.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/50.7.114.0"><span>50.=
+7.114.0</span></a>       Loss%  Snt   Last  Avg   Best  Wrst  StDev AS Name=
+                         PTR
+1   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/50.7.112.1"><span>50.=
+7.112.1</span></a>       0.0%   20    0.8   1.8   0.7   8.2   1.7   <a targ=
+et=3D"_blank" href=3D"http://bgp.he.net/AS174" title=3D"COGENT-174"><span>1=
+74   US COGENT</span></a>           <span title=3D""></span>
+2   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/149.11.45.49"><span>1=
+49.11.45.49</span></a>     0.0%   20    2.5   1.2   0.8   2.8   0.4   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS174" title=3D"COGENT-174"><span=
+>174   US COGENT</span></a>           <span title=3D"be4660.ccr42.lon13.atl=
+as.cogentco.com">be4660.ccr42.lon13.atlas.coge...</span>
+3   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/154.54.61.162"><span>=
+154.54.61.162</span></a>    0.0%   20    1.1   1.8   1.0   9.9   2.0   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS174" title=3D"COGENT-174"><spa=
+n>174   US COGENT</span></a>           <span title=3D"be2382.rcr21.b015533-=
+1.lon13.atlas.cogentco.com">be2382.rcr21.b015533-1.lon13...</span>
+4   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/149.14.250.242"><span=
+>149.14.250.242</span></a>   0.0%   20    1.2   5.8   1.2   34.8  8.9   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS174" title=3D"COGENT-174"><sp=
+an>174   US COGENT</span></a>           <span title=3D"cloudflare.demarc.co=
+gentco.com">cloudflare.demarc.cogentco.com</span>
+5   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.70.160.2"><span>1=
+72.70.160.2</span></a>     0.0%   20    2.8   4.5   1.0   48.8  10.5  <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET">=
+<span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+6   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   0.0%   20    1.0   1.3   0.8   5.6   1.0   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-EU_FR_2-tr">
+            <td id=3D"ping-EU_FR_2-location">
+                France, Paris
+            </td>
+            <td id=3D"ping-EU_FR_2-provider">
+                Online.net
+            </td>
+            <td id=3D"ping-EU_FR_2-mtr" style=3D"width:99%">
+                <span id=3D"td-EU_FR_2-mtr-report-show" style=3D"color: rgb=
+(16, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-EU_FR_2-mtr-report-loading" style=3D"color: =
+rgb(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-EU_FR_2-mtr-report" style=3D"background-color: rgb(0, 24, =
+0); outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-EU_FR_2-mtr-report">=
+0.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/51.15.179.0"><span>51=
+.15.179.0</span></a>      Loss%  Snt   Last  Avg   Best  Wrst  StDev AS Nam=
+e                         PTR
+1   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/51.15.179.1"><span>51=
+.15.179.1</span></a>      0.0%   20    0.5   0.5   0.4   0.7   0.0   <a tar=
+get=3D"_blank" href=3D"http://bgp.he.net/AS12876" title=3D"Online SAS"><spa=
+n>12876 FR Online SAS</span></a>       <span title=3D"51-15-179-1.rev.poney=
+telecom.eu">51-15-179-1.rev.poneytelecom.eu</span>
+2   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/51.158.8.58"><span>51=
+.158.8.58</span></a>      0.0%   20    0.7   0.5   0.3   0.7   0.0   <a tar=
+get=3D"_blank" href=3D"http://bgp.he.net/AS12876" title=3D"Online SAS"><spa=
+n>12876 FR Online SAS</span></a>       <span title=3D""></span>
+3   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/51.158.3.254"><span>5=
+1.158.3.254</span></a>     0.0%   20    1.7   1.4   1.2   1.7   0.0   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS12876" title=3D"Online SAS"><sp=
+an>12876 FR Online SAS</span></a>       <span title=3D""></span>
+4   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/37.49.237.49"><span>3=
+7.49.237.49</span></a>     0.0%   20    10.9  7.9   2.1   35.3  9.0   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS204355" title=3D"TELICITY-COMMU=
+NICATIONS Telicity Communications SASU"><span>204355 FR TELICITY-COMMUNI</s=
+pan></a> <span title=3D"cloudflare.par.franceix.net">cloudflare.par.francei=
+x.net</span>
+5   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.71.120.2"><span>1=
+72.71.120.2</span></a>     0.0%   20    23.1  7.9   1.9   23.1  6.1   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET">=
+<span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+6   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   0.0%   20    1.8   1.9   1.8   2.0   0.0   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-EU_NL_1-tr">
+            <td id=3D"ping-EU_NL_1-location">
+                Netherlands, Amsterdam
+            </td>
+            <td id=3D"ping-EU_NL_1-provider">
+                Online.net
+            </td>
+            <td id=3D"ping-EU_NL_1-mtr" style=3D"width:99%">
+                <span id=3D"td-EU_NL_1-mtr-report-show" style=3D"color: rgb=
+(16, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-EU_NL_1-mtr-report-loading" style=3D"color: =
+rgb(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-EU_NL_1-mtr-report" style=3D"background-color: rgb(0, 24, =
+0); outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-EU_NL_1-mtr-report">=
+0.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/51.158.147.0"><span>5=
+1.158.147.0</span></a>     Loss%  Snt   Last  Avg   Best  Wrst  StDev AS Na=
+me                         PTR
+1   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/51.158.147.1"><span>5=
+1.158.147.1</span></a>     0.0%   20    0.4   0.6   0.3   3.8   0.7   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS12876" title=3D"Online SAS"><sp=
+an>12876 FR Online SAS</span></a>       <span title=3D"51-158-147-1.rev.pon=
+eytelecom.eu">51-158-147-1.rev.poneytelecom...</span>
+2   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/51.158.8.174"><span>5=
+1.158.8.174</span></a>     0.0%   20    0.4   0.4   0.3   0.5   0.0   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS12876" title=3D"Online SAS"><sp=
+an>12876 FR Online SAS</span></a>       <span title=3D""></span>
+3   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/51.158.8.26"><span>51=
+.158.8.26</span></a>      0.0%   20    1.0   1.2   0.7   3.4   0.5   <a tar=
+get=3D"_blank" href=3D"http://bgp.he.net/AS12876" title=3D"Online SAS"><spa=
+n>12876 FR Online SAS</span></a>       <span title=3D""></span>
+4   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/195.154.2.105"><span>=
+195.154.2.105</span></a>    0.0%   20    12.6  12.8  12.5  13.0  0.0   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS12876" title=3D"Online SAS"><s=
+pan>12876 FR Online SAS</span></a>       <span title=3D""></span>
+5   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/37.49.238.59"><span>3=
+7.49.238.59</span></a>     0.0%   20    12.8  14.9  12.5  44.1  7.2   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS204355" title=3D"TELICITY-COMMU=
+NICATIONS Telicity Communications SASU"><span>204355 FR TELICITY-COMMUNI</s=
+pan></a> <span title=3D"cloudflare-2.par.franceix.net">cloudflare-2.par.fra=
+nceix.net</span>
+6   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.71.116.4"><span>1=
+72.71.116.4</span></a>     0.0%   20    13.6  15.0  13.5  28.2  3.2   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET">=
+<span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+7   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   0.0%   20    13.5  13.6  13.5  13.6  0.0   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-EU_NO_1-tr">
+            <td id=3D"ping-EU_NO_1-location">
+                Norway, Sandefjord
+            </td>
+            <td id=3D"ping-EU_NO_1-provider">
+                Terrahost
+            </td>
+            <td id=3D"ping-EU_NO_1-mtr" style=3D"width:99%">
+                <span id=3D"td-EU_NO_1-mtr-report-show" style=3D"color: rgb=
+(16, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-EU_NO_1-mtr-report-loading" style=3D"color: =
+rgb(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-EU_NO_1-mtr-report" style=3D"background-color: rgb(0, 24, =
+0); outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-EU_NO_1-mtr-report">=
+0.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/185.243.217.0"><span>=
+185.243.217.0</span></a>    Loss%  Snt   Last  Avg   Best  Wrst  StDev AS N=
+ame                         PTR
+1   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/185.243.217.3"><span>=
+185.243.217.3</span></a>    0.0%   20    0.3   0.2   0.2   0.3   0.0   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS56655" title=3D"TERRAHOST"><sp=
+an>56655 NO TERRAHOST</span></a>        <span title=3D""></span>
+2   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/185.125.170.44"><span=
+>185.125.170.44</span></a>   0.0%   20    0.7   3.4   0.3   11.3  3.2   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS56655" title=3D"TERRAHOST"><s=
+pan>56655 NO TERRAHOST</span></a>        <span title=3D""></span>
+3   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/185.125.170.130"><spa=
+n>185.125.170.130</span></a>  0.0%   20    0.6   0.5   0.2   1.0   0.0   <a=
+ target=3D"_blank" href=3D"http://bgp.he.net/AS56655" title=3D"TERRAHOST"><=
+span>56655 NO TERRAHOST</span></a>        <span title=3D"mxcore1.dc2.et-0-0=
+-2.k10.terrahost.no">mxcore1.dc2.et-0-0-2.k10.terr...</span>
+4   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/185.125.170.113"><spa=
+n>185.125.170.113</span></a>  0.0%   20    19.5  26.9  19.2  102.2 23.2  <a=
+ target=3D"_blank" href=3D"http://bgp.he.net/AS56655" title=3D"TERRAHOST"><=
+span>56655 NO TERRAHOST</span></a>        <span title=3D"mxcore1.ams.irb.21=
+02.nl.terrahost.no">mxcore1.ams.irb.2102.nl.terra...</span>
+5   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/80.249.211.140"><span=
+>80.249.211.140</span></a>   55.0%  20    20.8  21.0  20.5  23.6  0.9   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS12969" title=3D"Vodafone_Icel=
+and Syn hf"><span>12969 IS Vodafone_Iceland</span></a> <span title=3D"ams-i=
+x.as13335.net">ams-ix.as13335.net</span>
+6   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.71.100.2"><span>1=
+72.71.100.2</span></a>     0.0%   20    23.0  21.5  20.2  27.7  1.7   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET">=
+<span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+7   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   0.0%   20    20.5  20.5  20.1  23.8  0.8   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-EU_DE_1-tr">
+            <td id=3D"ping-EU_DE_1-location">
+                Germany, Nuremberg
+            </td>
+            <td id=3D"ping-EU_DE_1-provider">
+                Hetzner
+            </td>
+            <td id=3D"ping-EU_DE_1-mtr" style=3D"width:99%">
+                <span id=3D"td-EU_DE_1-mtr-report-show" style=3D"color: rgb=
+(16, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-EU_DE_1-mtr-report-loading" style=3D"color: =
+rgb(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-EU_DE_1-mtr-report" style=3D"background-color: rgb(0, 24, =
+0); outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-EU_DE_1-mtr-report">=
+0.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/116.203.131.0"><span>=
+116.203.131.0</span></a>    Loss%  Snt   Last  Avg   Best  Wrst  StDev AS N=
+ame                         PTR
+1   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.31.1.1"><span>172=
+.31.1.1</span></a>       0.0%   20    2.7   3.0   2.3   5.0   0.5   -
+2   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/168.119.218.147"><spa=
+n>168.119.218.147</span></a>  10.0%  20    0.3   0.3   0.2   0.5   0.0   <a=
+ target=3D"_blank" href=3D"http://bgp.he.net/AS24940" title=3D"HETZNER-AS">=
+<span>24940 DE HETZNER</span></a>          <span title=3D"21330.your-cloud.=
+host">21330.your-cloud.host</span>
+3   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/???"><span>???</span>=
+</a>              100.0  20    0.0   0.0   0.0   0.0   0.0   -
+4   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/49.12.142.253"><span>=
+49.12.142.253</span></a>    0.0%   20    1.0   2.2   0.9   22.6  4.8   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS24940" title=3D"HETZNER-AS"><s=
+pan>24940 DE HETZNER</span></a>          <span title=3D"static.253.142.12.4=
+9.clients.your-server.de">static.253.142.12.49.clients...</span>
+5   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/85.10.237.93"><span>8=
+5.10.237.93</span></a>     0.0%   20    0.9   5.8   0.8   35.0  10.7  <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS24940" title=3D"HETZNER-AS"><sp=
+an>24940 DE HETZNER</span></a>          <span title=3D"static.85-10-237-93.=
+clients.your-server.de">static.85-10-237-93.clients.y...</span>
+6   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/213.239.239.141"><spa=
+n>213.239.239.141</span></a>  0.0%   20    0.4   1.6   0.4   17.4  3.7   <a=
+ target=3D"_blank" href=3D"http://bgp.he.net/AS24940" title=3D"HETZNER-AS">=
+<span>24940 DE HETZNER</span></a>          <span title=3D"213-239-239-141.c=
+lients.your-server.de">213-239-239-141.clients.your-...</span>
+7   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/213.239.245.78"><span=
+>213.239.245.78</span></a>   0.0%   20    0.6   2.6   0.5   22.8  5.9   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS24940" title=3D"HETZNER-AS"><=
+span>24940 DE HETZNER</span></a>          <span title=3D"juniper6.dc2.nbg1.=
+hetzner.com">juniper6.dc2.nbg1.hetzner.com</span>
+8   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/193.203.0.195"><span>=
+193.203.0.195</span></a>    0.0%   20    10.1  12.2  9.6   30.1  4.9   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS25255" title=3D"H3G-Austria-AS=
+ Hutchison Drei Austria GmbH"><span>25255 AT H3G-Austria-AS</span></a>   <s=
+pan title=3D"vix.as13335.net">vix.as13335.net</span>
+9   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   0.0%   20    9.3   9.7   9.3   11.9  0.5   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-EU_IT_1-tr">
+            <td id=3D"ping-EU_IT_1-location">
+                Italy, Milan
+            </td>
+            <td id=3D"ping-EU_IT_1-provider">
+                Prometeus
+            </td>
+            <td id=3D"ping-EU_IT_1-mtr" style=3D"width:99%">
+                <span id=3D"td-EU_IT_1-mtr-report-show" style=3D"color: rgb=
+(16, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-EU_IT_1-mtr-report-loading" style=3D"color: =
+rgb(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-EU_IT_1-mtr-report" style=3D"background-color: rgb(0, 24, =
+0); outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-EU_IT_1-mtr-report">=
+0.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/192.165.67.0"><span>1=
+92.165.67.0</span></a>     Loss%  Snt   Last  Avg   Best  Wrst  StDev AS Na=
+me                         PTR
+1.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/192.165.67.1"><span>1=
+92.165.67.1</span></a>     0.0%   20    0.9   1.0   0.5   2.5   0.4   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS34971" title=3D"PDDA-AS"><span>=
+34971 IT PDDA</span></a>             <span title=3D""></span>
+2.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/93.186.128.114"><span=
+>93.186.128.114</span></a>   0.0%   20    9.4   3.8   0.5   31.1  7.0   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS6762" title=3D"SEABONE-NET TE=
+LECOM ITALIA SPARKLE S.p.A."><span>6762  IT SEABONE-NET</span></a>      <sp=
+an title=3D"et0-0-2-3-353.milano81.mil.seabone.net">et0-0-2-3-353.milano81.=
+mil.se...</span>
+3.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/213.144.170.29"><span=
+>213.144.170.29</span></a>   0.0%   20    7.0   7.0   7.0   7.1   0.0   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS6762" title=3D"SEABONE-NET TE=
+LECOM ITALIA SPARKLE S.p.A."><span>6762  IT SEABONE-NET</span></a>      <sp=
+an title=3D"ae1.marsiglia4.mar.seabone.net">ae1.marsiglia4.mar.seabone.net<=
+/span>
+4.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/213.144.176.235"><spa=
+n>213.144.176.235</span></a>  0.0%   20    15.2  18.3  7.9   70.7  17.5  <a=
+ target=3D"_blank" href=3D"http://bgp.he.net/AS6762" title=3D"SEABONE-NET T=
+ELECOM ITALIA SPARKLE S.p.A."><span>6762  IT SEABONE-NET</span></a>      <s=
+pan title=3D""></span>
+5.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/162.158.20.240"><span=
+>162.158.20.240</span></a>   0.0%   20    11.1  10.7  7.5   37.9  7.4   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+6.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   0.0%   20    7.6   7.5   7.5   8.0   0.1   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-TR_1-tr">
+            <td id=3D"ping-TR_1-location">
+                Turkey, Bursa
+            </td>
+            <td id=3D"ping-TR_1-provider">
+                Oneprovider
+            </td>
+            <td id=3D"ping-TR_1-mtr" style=3D"width:99%">
+                <span id=3D"td-TR_1-mtr-report-show" style=3D"color: rgb(16=
+, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-TR_1-mtr-report-loading" style=3D"color: rgb=
+(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-TR_1-mtr-report" style=3D"background-color: rgb(0, 24, 0);=
+ outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-TR_1-mtr-report">0. =
+ <a target=3D"_blank" href=3D"http://bgp.he.net/ip/185.123.101.0"><span>185=
+.123.101.0</span></a>    Loss%  Snt   Last  Avg   Best  Wrst  StDev AS Name=
+                         PTR
+1   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/185.123.101.1"><span>=
+185.123.101.1</span></a>    0.0%   20    2.4   2.2   1.4   6.1   0.9   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS43260" title=3D"AS43260"><span=
+>43260 TR AS43260</span></a>          <span title=3D""></span>
+2   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/???"><span>???</span>=
+</a>              100.0  20    0.0   0.0   0.0   0.0   0.0   -
+3   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/???"><span>???</span>=
+</a>              100.0  20    0.0   0.0   0.0   0.0   0.0   -
+4   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/212.156.58.189"><span=
+>212.156.58.189</span></a>   80.0%  20    1.0   0.9   0.8   1.1   0.0   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS9121" title=3D"TTNET"><span>9=
+121  TR TTNET</span></a>            <span title=3D"212.156.58.189.static.tu=
+rktelekom.com.tr">212.156.58.189.static.turktel...</span>
+5   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/81.212.242.44"><span>=
+81.212.242.44</span></a>    0.0%   20    1.3   1.3   0.9   1.6   0.0   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS9121" title=3D"TTNET"><span>91=
+21  TR TTNET</span></a>            <span title=3D"16-bursa-h2-1---16-bursa-=
+t3-5.statik.turktelekom.com.tr">16-bursa-h2-1---16-bursa-t3-5...</span>
+6   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/81.212.248.78"><span>=
+81.212.248.78</span></a>    0.0%   20    9.9   9.7   9.6   10.0  0.0   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS9121" title=3D"TTNET"><span>91=
+21  TR TTNET</span></a>            <span title=3D"00-gayrettepe-xrs-t2-1---=
+16-bursa-h2-1.statik.turktelekom.com.tr">00-gayrettepe-xrs-t2-1---16-b...</=
+span>
+7   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/81.212.201.195"><span=
+>81.212.201.195</span></a>   90.0%  20    9.8   9.7   9.6   9.8   0.0   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS9121" title=3D"TTNET"><span>9=
+121  TR TTNET</span></a>            <span title=3D"00-ebgp-gayrettepe-k---0=
+0-gayrettepe-sr14s-t2-1.statik.turktelekom.com.tr">00-ebgp-gayrettepe-k---0=
+0-gay...</span>
+8   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/212.156.120.178"><spa=
+n>212.156.120.178</span></a>  90.0%  20    9.9   9.8   9.8   9.9   0.0   <a=
+ target=3D"_blank" href=3D"http://bgp.he.net/AS9121" title=3D"TTNET"><span>=
+9121  TR TTNET</span></a>            <span title=3D"212.156.120.178.static.=
+turktelekom.com.tr">212.156.120.178.static.turkte...</span>
+9   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/86.106.122.97"><span>=
+86.106.122.97</span></a>    0.0%   20    7.6   9.9   7.4   38.0  6.7   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS6663" title=3D"TTI-NET"><span>=
+6663  RO TTI-NET</span></a>          <span title=3D""></span>
+10  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/86.106.122.122"><span=
+>86.106.122.122</span></a>   0.0%   20    8.0   17.5  8.0   50.1  14.2  <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS6663" title=3D"TTI-NET"><span=
+>6663  RO TTI-NET</span></a>          <span title=3D""></span>
+11  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   0.0%   20    9.6   10.1  9.4   18.9  2.0   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-EG_1-tr">
+            <td id=3D"ping-EG_1-location">
+                Egypt, Cairo
+            </td>
+            <td id=3D"ping-EG_1-provider">
+                Binaryracks
+            </td>
+            <td id=3D"ping-EG_1-mtr" style=3D"width:99%">
+                <span id=3D"td-EG_1-mtr-report-show" style=3D"color: rgb(16=
+, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-EG_1-mtr-report-loading" style=3D"color: rgb=
+(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-EG_1-mtr-report" style=3D"background-color: rgb(0, 24, 0);=
+ outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-EG_1-mtr-report">0. =
+ <a target=3D"_blank" href=3D"http://bgp.he.net/ip/196.46.190.0"><span>196.=
+46.190.0</span></a>     Loss%  Snt   Last  Avg   Best  Wrst  StDev AS Name =
+                        PTR
+1   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/41.215.241.41"><span>=
+41.215.241.41</span></a>    95.0%  20    10.6  10.6  10.6  10.6  0.0   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS33785" title=3D"CITYNET"><span=
+>33785 EG CITYNET</span></a>          <span title=3D""></span>
+2   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/196.46.189.109"><span=
+>196.46.189.109</span></a>   0.0%   20    0.7   1.1   0.6   3.1   0.5   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS33785" title=3D"CITYNET"><spa=
+n>33785 EG CITYNET</span></a>          <span title=3D""></span>
+3   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/196.46.189.229"><span=
+>196.46.189.229</span></a>   0.0%   20    0.9   0.9   0.7   1.2   0.0   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS33785" title=3D"CITYNET"><spa=
+n>33785 EG CITYNET</span></a>          <span title=3D""></span>
+4   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/196.46.189.33"><span>=
+196.46.189.33</span></a>    0.0%   20    0.5   0.8   0.4   1.1   0.0   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS33785" title=3D"CITYNET"><span=
+>33785 EG CITYNET</span></a>          <span title=3D""></span>
+5   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.29.120.1"><span>1=
+72.29.120.1</span></a>     0.0%   20    7.8   8.7   7.3   23.9  3.6   -
+6   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.17.51.34"><span>1=
+72.17.51.34</span></a>     0.0%   20    7.8   8.6   7.3   23.9  3.6   -
+7   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/185.84.18.93"><span>1=
+85.84.18.93</span></a>     0.0%   20    37.9  38.1  37.5  38.8  0.0   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS2914" title=3D"NTT-LTD-2914"><s=
+pan>2914  US NTT-LTD-2914</span></a>     <span title=3D""></span>
+8   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/185.84.18.70"><span>1=
+85.84.18.70</span></a>     0.0%   20    40.7  54.7  40.6  98.0  19.2  <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS2914" title=3D"NTT-LTD-2914"><s=
+pan>2914  US NTT-LTD-2914</span></a>     <span title=3D""></span>
+9   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/162.158.20.240"><span=
+>162.158.20.240</span></a>   0.0%   20    67.0  43.2  40.1  67.0  6.7   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+10  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   0.0%   20    40.1  40.1  39.7  40.7  0.0   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-CY_1-tr">
+            <td id=3D"ping-CY_1-location">
+                Cyprus, Limassol
+            </td>
+            <td id=3D"ping-CY_1-provider">
+                CL8
+            </td>
+            <td id=3D"ping-CY_1-mtr" style=3D"width:99%">
+                <span id=3D"td-CY_1-mtr-report-show" style=3D"color: rgb(16=
+, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-CY_1-mtr-report-loading" style=3D"color: rgb=
+(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-CY_1-mtr-report" style=3D"background-color: rgb(0, 24, 0);=
+ outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-CY_1-mtr-report">0. =
+ <a target=3D"_blank" href=3D"http://bgp.he.net/ip/185.106.103.0"><span>185=
+.106.103.0</span></a>    Loss%  Snt   Last  Avg   Best  Wrst  StDev AS Name=
+                         PTR
+1   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/185.106.103.253"><spa=
+n>185.106.103.253</span></a>  0.0%   20    0.6   5.3   0.4   38.8  10.1  <a=
+ target=3D"_blank" href=3D"http://bgp.he.net/AS197648" title=3D"CL8ASN1"><s=
+pan>197648 CY CL8ASN1</span></a>         <span title=3D""></span>
+2   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/185.106.102.173"><spa=
+n>185.106.102.173</span></a>  0.0%   20    1.1   6.2   0.4   69.6  15.7  <a=
+ target=3D"_blank" href=3D"http://bgp.he.net/AS197648" title=3D"CL8ASN1"><s=
+pan>197648 CY CL8ASN1</span></a>         <span title=3D"ra-r5.cl8">ra-r5.cl=
+8</span>
+3   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/91.184.200.213"><span=
+>91.184.200.213</span></a>   0.0%   20    23.5  9.5   3.0   46.4  10.7  <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS35432" title=3D"CABLENET-AS">=
+<span>35432 CY CABLENET</span></a>         <span title=3D""></span>
+4   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/213.140.211.61"><span=
+>213.140.211.61</span></a>   0.0%   20    4.5   6.2   3.3   21.5  5.0   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS35432" title=3D"CABLENET-AS">=
+<span>35432 CY CABLENET</span></a>         <span title=3D""></span>
+5   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/213.140.198.44"><span=
+>213.140.198.44</span></a>   0.0%   20    75.0  8.6   2.6   75.0  16.3  <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS35432" title=3D"CABLENET-AS">=
+<span>35432 CY CABLENET</span></a>         <span title=3D"be1.871.core-r1.l=
+im.cy.cablenet-as.net">be1.871.core-r1.lim.cy.cablen...</span>
+6   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/213.140.198.74"><span=
+>213.140.198.74</span></a>   0.0%   20    8.2   5.9   2.2   44.0  9.4   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS35432" title=3D"CABLENET-AS">=
+<span>35432 CY CABLENET</span></a>         <span title=3D"be41.core-r1.nic-=
+south.cy.cablenet-as.net">be41.core-r1.nic-south.cy.cab...</span>
+7   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/213.140.213.142"><spa=
+n>213.140.213.142</span></a>  0.0%   20    100.4 15.1  3.1   100.4 24.8  <a=
+ target=3D"_blank" href=3D"http://bgp.he.net/AS35432" title=3D"CABLENET-AS"=
+><span>35432 CY CABLENET</span></a>         <span title=3D""></span>
+8   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   0.0%   20    2.4   9.4   1.9   75.7  18.6  <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-IL_1-tr">
+            <td id=3D"ping-IL_1-location">
+                Israel, Tel Aviv
+            </td>
+            <td id=3D"ping-IL_1-provider">
+                Oneprovider
+            </td>
+            <td id=3D"ping-IL_1-mtr" style=3D"width:99%">
+                <span id=3D"td-IL_1-mtr-report-show" style=3D"color: rgb(16=
+, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-IL_1-mtr-report-loading" style=3D"color: rgb=
+(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-IL_1-mtr-report" style=3D"background-color: rgb(0, 24, 0);=
+ outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-IL_1-mtr-report">0. =
+ <a target=3D"_blank" href=3D"http://bgp.he.net/ip/147.78.2.0"><span>147.78=
+.2.0</span></a>       Loss%  Snt   Last  Avg   Best  Wrst  StDev AS Name   =
+                      PTR
+1   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/147.78.2.1"><span>147=
+.78.2.1</span></a>       0.0%   20    1.0   1.2   0.9   3.7   0.6   <a targ=
+et=3D"_blank" href=3D"http://bgp.he.net/AS35758" title=3D"HQSERV_COMMUNICAT=
+ION_SOLUTIONS"><span>35758 IL HQSERV_COMMUNICA</span></a> <span title=3D"">=
+</span>
+2   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/192.168.20.254"><span=
+>192.168.20.254</span></a>   0.0%   20    0.2   0.2   0.2   0.3   0.0   -
+3   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/62.219.245.65"><span>=
+62.219.245.65</span></a>    0.0%   20    0.7   4.8   0.3   79.0  17.6  <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS8551" title=3D"BEZEQ-INTERNATI=
+ONAL-AS Bezeqint Internet Backbone"><span>8551  IL BEZEQ-INTERNATIO</span><=
+/a> <span title=3D"bzq-219-245-65.dsl.bezeqint.net">bzq-219-245-65.dsl.beze=
+qint.net</span>
+4   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/212.179.8.89"><span>2=
+12.179.8.89</span></a>     40.0%  20    1.1   1.0   0.9   1.2   0.0   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS8551" title=3D"BEZEQ-INTERNATIO=
+NAL-AS Bezeqint Internet Backbone"><span>8551  IL BEZEQ-INTERNATIO</span></=
+a> <span title=3D"bzq-179-8-89.cust.bezeqint.net">bzq-179-8-89.cust.bezeqin=
+t.net</span>
+5   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/212.179.124.186"><spa=
+n>212.179.124.186</span></a>  0.0%   20    0.9   0.9   0.7   2.3   0.3   <a=
+ target=3D"_blank" href=3D"http://bgp.he.net/AS8551" title=3D"BEZEQ-INTERNA=
+TIONAL-AS Bezeqint Internet Backbone"><span>8551  IL BEZEQ-INTERNATIO</span=
+></a> <span title=3D"bzq-179-124-186.cust.bezeqint.net">bzq-179-124-186.cus=
+t.bezeqint...</span>
+6   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/62.219.33.146"><span>=
+62.219.33.146</span></a>    0.0%   20    1.6   3.9   1.3   19.3  5.7   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS8551" title=3D"BEZEQ-INTERNATI=
+ONAL-AS Bezeqint Internet Backbone"><span>8551  IL BEZEQ-INTERNATIO</span><=
+/a> <span title=3D"bzq-219-33-146.isdn.bezeqint.net">bzq-219-33-146.isdn.be=
+zeqint...</span>
+7   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   0.0%   20    0.9   1.0   0.7   3.3   0.5   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-SA_1-tr">
+            <td id=3D"ping-SA_1-location">
+                Saudi Arabia, Riyadh
+            </td>
+            <td id=3D"ping-SA_1-provider">
+                Cloudsigma
+            </td>
+            <td id=3D"ping-SA_1-mtr" style=3D"width:99%">
+                <span id=3D"td-SA_1-mtr-report-show" style=3D"color: rgb(16=
+, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-SA_1-mtr-report-loading" style=3D"color: rgb=
+(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-SA_1-mtr-report" style=3D"background-color: rgb(0, 24, 0);=
+ outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-SA_1-mtr-report">0. =
+ <a target=3D"_blank" href=3D"http://bgp.he.net/ip/185.230.210.0"><span>185=
+.230.210.0</span></a>    Loss%  Snt   Last  Avg   Best  Wrst  StDev AS Name=
+                         PTR
+1   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/???"><span>???</span>=
+</a>              100.0  20    0.0   0.0   0.0   0.0   0.0   -
+2   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/91.92.176.3"><span>91=
+.92.176.3</span></a>      0.0%   20    0.1   0.1   0.1   0.2   0.0   <a tar=
+get=3D"_blank" href=3D"http://bgp.he.net/AS50837" title=3D"CLOUDSIGMA-AS"><=
+span>50837 CH CLOUDSIGMA</span></a>       <span title=3D""></span>
+3   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/176.98.33.81"><span>1=
+76.98.33.81</span></a>     0.0%   20    0.2   0.2   0.2   0.3   0.0   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS29684" title=3D"NOURNET-ASN"><s=
+pan>29684 SA NOURNET</span></a>          <span title=3D""></span>
+4   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/87.101.184.21"><span>=
+87.101.184.21</span></a>    0.0%   20    1.7   1.5   1.2   1.8   0.0   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS35753" title=3D"ITC ITC AS num=
+ber"><span>35753 SA ITC ITC AS</span></a>       <span title=3D""></span>
+5   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/???"><span>???</span>=
+</a>              100.0  20    0.0   0.0   0.0   0.0   0.0   -
+6   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/87.101.255.134"><span=
+>87.101.255.134</span></a>   0.0%   20    13.8  13.5  13.3  14.4  0.0   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS35753" title=3D"ITC ITC AS nu=
+mber"><span>35753 SA ITC ITC AS</span></a>       <span title=3D""></span>
+7   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/80.231.200.154"><span=
+>80.231.200.154</span></a>   0.0%   20    61.0  61.0  60.8  61.2  0.0   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS6453" title=3D"AS6453"><span>=
+6453  US AS6453</span></a>           <span title=3D"ix-hge-0-0-0-31.ecore3.=
+emrs2-marseille.as6453.net">ix-hge-0-0-0-31.ecore3.emrs2-...</span>
+8   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/80.231.217.165"><span=
+>80.231.217.165</span></a>   0.0%   20    67.1  66.5  63.4  83.3  5.2   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS6453" title=3D"AS6453"><span>=
+6453  US AS6453</span></a>           <span title=3D""></span>
+9   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/162.158.20.242"><span=
+>162.158.20.242</span></a>   0.0%   20    61.2  64.0  60.9  84.0  6.2   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+10  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   0.0%   20    60.9  61.1  60.8  64.5  0.8   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-SA_2-tr">
+            <td id=3D"ping-SA_2-location">
+                Saudi Arabia, Riyadh
+            </td>
+            <td id=3D"ping-SA_2-provider">
+                Buzinessware
+            </td>
+            <td id=3D"ping-SA_2-mtr" style=3D"width:99%">
+                <span id=3D"td-SA_2-mtr-report-show" style=3D"color: rgb(16=
+, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-SA_2-mtr-report-loading" style=3D"color: rgb=
+(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-SA_2-mtr-report" style=3D"background-color: rgb(0, 24, 0);=
+ outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-SA_2-mtr-report">0. =
+ <a target=3D"_blank" href=3D"http://bgp.he.net/ip/185.140.251.0"><span>185=
+.140.251.0</span></a>    Loss%  Snt   Last  Avg   Best  Wrst  StDev AS Name=
+                         PTR
+1   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/185.140.251.2"><span>=
+185.140.251.2</span></a>    95.0%  20    0.3   0.3   0.3   0.3   0.0   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS60140" title=3D"BUZINESSWARE">=
+<span>60140 AE BUZINESSWARE</span></a>     <span title=3D""></span>
+2   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/151.248.103.33"><span=
+>151.248.103.33</span></a>   0.0%   20    2.3   2.0   1.1   6.8   1.2   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS59605" title=3D"ZAINGP-AS"><s=
+pan>59605 BH ZAINGP</span></a>           <span title=3D""></span>
+3   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/151.248.96.59"><span>=
+151.248.96.59</span></a>    0.0%   20    90.3  90.6  89.2  94.1  1.2   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS59605" title=3D"ZAINGP-AS"><sp=
+an>59605 BH ZAINGP</span></a>           <span title=3D""></span>
+4   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/151.248.96.59"><span>=
+151.248.96.59</span></a>    0.0%   20    90.6  90.3  89.0  94.9  1.3   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS59605" title=3D"ZAINGP-AS"><sp=
+an>59605 BH ZAINGP</span></a>           <span title=3D""></span>
+5   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/195.66.225.179"><span=
+>195.66.225.179</span></a>   55.0%  20    82.7  89.6  78.9  113.1 12.1  <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS12969" title=3D"Vodafone_Icel=
+and Syn hf"><span>12969 IS Vodafone_Iceland</span></a> <span title=3D"linx-=
+lon1.as13335.net">linx-lon1.as13335.net</span>
+6   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.70.87.2"><span>17=
+2.70.87.2</span></a>      0.0%   20    126.5 83.5  78.6  126.5 11.5  <a tar=
+get=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET"><=
+span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+7   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   0.0%   20    78.8  79.1  78.5  81.7  0.6   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-UAE_1-tr">
+            <td id=3D"ping-UAE_1-location">
+                UAE, Dubai
+            </td>
+            <td id=3D"ping-UAE_1-provider">
+                Bamboozle
+            </td>
+            <td id=3D"ping-UAE_1-mtr" style=3D"width:99%">
+                <span id=3D"td-UAE_1-mtr-report-show" style=3D"color: rgb(1=
+6, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-UAE_1-mtr-report-loading" style=3D"color: rg=
+b(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-UAE_1-mtr-report" style=3D"background-color: rgb(0, 24, 0)=
+; outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-UAE_1-mtr-report">0.=
+  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/185.93.245.0"><span>185=
+.93.245.0</span></a>     Loss%  Snt   Last  Avg   Best  Wrst  StDev AS Name=
+                         PTR
+1   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/185.93.245.1"><span>1=
+85.93.245.1</span></a>     0.0%   20    0.5   1.4   0.2   19.0  4.1   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS200851" title=3D"BAMBOOZLE-AS">=
+<span>200851 AE BAMBOOZLE</span></a>       <span title=3D"hsrp-gw.vl106.dx1=
+.uae.bamboozle.me">hsrp-gw.vl106.dx1.uae.bambooz...</span>
+2   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/185.211.216.249"><spa=
+n>185.211.216.249</span></a>  0.0%   20    119.7 131.1 119.6 235.5 32.8  <a=
+ target=3D"_blank" href=3D"http://bgp.he.net/AS8540" title=3D"AMANET-AS"><s=
+pan>8540  AT AMANET</span></a>           <span title=3D""></span>
+3   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/193.203.0.195"><span>=
+193.203.0.195</span></a>    0.0%   20    121.0 124.1 120.7 135.3 5.1   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS25255" title=3D"H3G-Austria-AS=
+ Hutchison Drei Austria GmbH"><span>25255 AT H3G-Austria-AS</span></a>   <s=
+pan title=3D"vix.as13335.net">vix.as13335.net</span>
+4   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   0.0%   20    120.5 120.6 120.3 120.8 0.0   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-UAE_2-tr">
+            <td id=3D"ping-UAE_2-location">
+                UAE, Dubai
+            </td>
+            <td id=3D"ping-UAE_2-provider">
+                Buzinessware
+            </td>
+            <td id=3D"ping-UAE_2-mtr" style=3D"width:99%">
+                <span id=3D"td-UAE_2-mtr-report-show" style=3D"color: rgb(1=
+6, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-UAE_2-mtr-report-loading" style=3D"color: rg=
+b(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-UAE_2-mtr-report" style=3D"background-color: rgb(0, 24, 0)=
+; outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-UAE_2-mtr-report">0.=
+  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/185.241.124.0"><span>18=
+5.241.124.0</span></a>    Loss%  Snt   Last  Avg   Best  Wrst  StDev AS Nam=
+e                         PTR
+1   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/185.241.124.2"><span>=
+185.241.124.2</span></a>    95.0%  20    0.4   0.4   0.4   0.4   0.0   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS60140" title=3D"BUZINESSWARE">=
+<span>60140 AE BUZINESSWARE</span></a>     <span title=3D"1-124-241.uae-dc2=
+.buzinesscloud.com">1-124-241.uae-dc2.buzinessclo...</span>
+2   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/45.143.62.65"><span>4=
+5.143.62.65</span></a>     5.0%   20    5.5   7.2   1.1   42.9  9.2   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS42156" title=3D"GNX"><span>4215=
+6 NL GNX</span></a>              <span title=3D""></span>
+3   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/185.179.202.6"><span>=
+185.179.202.6</span></a>    0.0%   20    0.9   0.9   0.7   1.3   0.0   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS49544" title=3D"I3DNET"><span>=
+49544 NL I3DNET</span></a>           <span title=3D"hosted-by.i3d.net">host=
+ed-by.i3d.net</span>
+4   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/109.200.218.48"><span=
+>109.200.218.48</span></a>   0.0%   20    1.0   2.9   0.8   17.6  4.3   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS49544" title=3D"I3DNET"><span=
+>49544 NL I3DNET</span></a>           <span title=3D"aedxb1-rt001i.i3d.net"=
+>aedxb1-rt001i.i3d.net</span>
+5   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/109.200.218.206"><spa=
+n>109.200.218.206</span></a>  0.0%   20    109.6 109.6 109.2 113.0 0.8   <a=
+ target=3D"_blank" href=3D"http://bgp.he.net/AS49544" title=3D"I3DNET"><spa=
+n>49544 NL I3DNET</span></a>           <span title=3D"frstd1-rt001i.i3d.net=
+">frstd1-rt001i.i3d.net</span>
+6   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/141.101.67.10"><span>=
+141.101.67.10</span></a>    0.0%   20    118.3 114.6 109.7 125.3 5.7   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET"=
+><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+7   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.71.120.2"><span>1=
+72.71.120.2</span></a>     0.0%   20    110.6 112.0 109.5 125.3 4.8   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET">=
+<span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+8   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   0.0%   20    109.6 109.7 109.4 110.2 0.0   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-IR_2-tr">
+            <td id=3D"ping-IR_2-location">
+                Iran, Tehran
+            </td>
+            <td id=3D"ping-IR_2-provider">
+                Green Web
+            </td>
+            <td id=3D"ping-IR_2-mtr" style=3D"width:99%">
+                <span id=3D"td-IR_2-mtr-report-show" style=3D"color: rgb(16=
+, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-IR_2-mtr-report-loading" style=3D"color: rgb=
+(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-IR_2-mtr-report" style=3D"background-color: rgb(0, 24, 0);=
+ outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-IR_2-mtr-report">0. =
+ <a target=3D"_blank" href=3D"http://bgp.he.net/ip/185.4.29.0"><span>185.4.=
+29.0</span></a>       Loss%  Snt   Last  Avg   Best  Wrst  StDev AS Name   =
+                      PTR
+1   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/185.4.29.254"><span>1=
+85.4.29.254</span></a>     0.0%   20    0.4   0.4   0.4   0.5   0.0   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS61173" title=3D"GWSN-AS"><span>=
+61173 IR GWSN</span></a>             <span title=3D"static.254.29.4.185.cli=
+ents.irandns.com">static.254.29.4.185.clients.i...</span>
+2   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.199.31.125"><span>=
+10.199.31.125</span></a>    0.0%   20    7.6   2.4   0.4   26.1  5.8   -
+3   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.199.102.21"><span>=
+10.199.102.21</span></a>    0.0%   20    0.4   1.6   0.4   24.5  5.3   -
+4   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.234.121.225"><span=
+>10.234.121.225</span></a>   0.0%   20    1.1   1.2   1.1   1.8   0.0   -
+5   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.234.198.11"><span>=
+10.234.198.11</span></a>    5.0%   20    5.0   6.9   5.0   9.5   0.8   -
+6   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.234.196.18"><span>=
+10.234.196.18</span></a>    0.0%   20    7.7   8.0   4.9   11.6  1.0   -
+7   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.202.6.98"><span>10=
+.202.6.98</span></a>      0.0%   20    9.2   8.1   5.6   9.2   0.7   -
+8   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.21.21.10"><span>10=
+.21.21.10</span></a>      5.0%   20    8.3   8.6   6.6   10.1  0.9   -
+9   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.21.211.10"><span>1=
+0.21.211.10</span></a>     5.0%   20    5.9   8.9   5.9   11.1  1.1   -
+10  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.21.21.10"><span>10=
+.21.21.10</span></a>      5.0%   20    6.2   8.5   4.3   10.4  1.3   -
+11  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/80.81.194.180"><span>=
+80.81.194.180</span></a>    70.0%  20    128.8 133.6 128.8 151.4 8.8   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS9498" title=3D"BBIL-AP BHARTI =
+Airtel Ltd."><span>9498  IN BBIL-AP BHARTI</span></a>   <span title=3D"de-c=
+ix-frankfurt.as13335.net">de-cix-frankfurt.as13335.net</span>
+12  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/162.158.84.53"><span>=
+162.158.84.53</span></a>    5.0%   20    181.4 140.7 122.6 205.5 26.3  <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET"=
+><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+13  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   0.0%   20    122.8 124.2 121.9 126.2 0.8   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-ID_1-tr">
+            <td id=3D"ping-ID_1-location">
+                India, Mumbai
+            </td>
+            <td id=3D"ping-ID_1-provider">
+                Vultr
+            </td>
+            <td id=3D"ping-ID_1-mtr" style=3D"width:99%">
+                <span id=3D"td-ID_1-mtr-report-show" style=3D"color: rgb(16=
+, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-ID_1-mtr-report-loading" style=3D"color: rgb=
+(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-ID_1-mtr-report" style=3D"background-color: rgb(0, 24, 0);=
+ outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-ID_1-mtr-report">0. =
+ <a target=3D"_blank" href=3D"http://bgp.he.net/ip/65.20.71.0"><span>65.20.=
+71.0</span></a>       Loss%  Snt   Last  Avg   Best  Wrst  StDev AS Name   =
+                      PTR
+1   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/???"><span>???</span>=
+</a>              100.0  20    0.0   0.0   0.0   0.0   0.0   -
+2   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/100.100.100.1"><span>=
+100.100.100.1</span></a>    5.0%   20    0.5   0.4   0.4   0.5   0.0   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS25472" title=3D"WIND-AS Nova T=
+elecommunications &amp; Media Single Member S.A"><span>25472 GR WIND-AS Nov=
+a</span></a>     <span title=3D""></span>
+3   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.90.0.129"><span>10=
+.90.0.129</span></a>      0.0%   20    3.2   1.5   1.0   7.5   1.4   -
+4   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.90.0.5"><span>10.9=
+0.0.5</span></a>        0.0%   20    0.9   2.5   0.6   19.8  4.4   -
+5   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/103.27.171.248"><span=
+>103.27.171.248</span></a>   0.0%   20    1.1   8.1   1.1   35.7  10.1  -
+6   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/162.158.226.21"><span=
+>162.158.226.21</span></a>   0.0%   20    1.0   3.4   0.7   20.1  4.8   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+7   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   0.0%   20    0.7   0.7   0.6   1.0   0.0   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-ID_2-tr">
+            <td id=3D"ping-ID_2-location">
+                India, Bengaluru
+            </td>
+            <td id=3D"ping-ID_2-provider">
+                Digital Ocean
+            </td>
+            <td id=3D"ping-ID_2-mtr" style=3D"width:99%">
+                <span id=3D"td-ID_2-mtr-report-show" style=3D"color: rgb(16=
+, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-ID_2-mtr-report-loading" style=3D"color: rgb=
+(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-ID_2-mtr-report" style=3D"background-color: rgb(0, 24, 0);=
+ outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-ID_2-mtr-report">0. =
+ <a target=3D"_blank" href=3D"http://bgp.he.net/ip/139.59.35.0"><span>139.5=
+9.35.0</span></a>      Loss%  Snt   Last  Avg   Best  Wrst  StDev AS Name  =
+                       PTR
+1   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/???"><span>???</span>=
+</a>              100.0  20    0.0   0.0   0.0   0.0   0.0   -
+2   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.66.7.202"><span>10=
+.66.7.202</span></a>      0.0%   20    0.6   0.7   0.4   2.1   0.3   -
+3   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/138.197.249.22"><span=
+>138.197.249.22</span></a>   0.0%   20    0.4   0.4   0.3   0.8   0.0   -
+4   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/219.65.110.185"><span=
+>219.65.110.185</span></a>   0.0%   20    2.0   1.9   1.2   10.5  2.0   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS4755" title=3D"TATACOMM-AS TA=
+TA Communications formerly VSNL is Leading ISP"><span>4755  IN TATACOMM-AS =
+TATA</span></a> <span title=3D"219.65.110.185.static-bangalore.vsnl.net.in"=
+>219.65.110.185.static-bangalo...</span>
+5   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/???"><span>???</span>=
+</a>              100.0  20    0.0   0.0   0.0   0.0   0.0   -
+6   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/180.87.36.9"><span>18=
+0.87.36.9</span></a>      0.0%   20    6.5   7.4   6.4   16.8  2.2   <a tar=
+get=3D"_blank" href=3D"http://bgp.he.net/AS6453" title=3D"AS6453"><span>645=
+3  US AS6453</span></a>           <span title=3D"ix-ae-4-2.tcore1.cxr-chenn=
+ai.as6453.net">ix-ae-4-2.tcore1.cxr-chennai...</span>
+7   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/180.87.36.41"><span>1=
+80.87.36.41</span></a>     20.0%  20    39.2  48.3  38.9  186.4 36.8  <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS6453" title=3D"AS6453"><span>64=
+53  US AS6453</span></a>           <span title=3D"if-be-34-2.ecore2.esin4-s=
+ingapore.as6453.net">if-be-34-2.ecore2.esin4-singa...</span>
+8   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/180.87.108.3"><span>1=
+80.87.108.3</span></a>     40.0%  20    39.2  39.2  39.0  39.2  0.0   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS6453" title=3D"AS6453"><span>64=
+53  US AS6453</span></a>           <span title=3D"if-be-49-2.ecore1.esin4-s=
+ingapore.as6453.net">if-be-49-2.ecore1.esin4-singa...</span>
+9   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.70.144.3"><span>1=
+72.70.144.3</span></a>     0.0%   20    39.3  41.4  39.1  49.2  3.3   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET">=
+<span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+10  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   0.0%   20    39.2  39.2  39.1  40.4  0.2   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-SG_1-tr">
+            <td id=3D"ping-SG_1-location">
+                Singapore
+            </td>
+            <td id=3D"ping-SG_1-provider">
+                Digital Ocean
+            </td>
+            <td id=3D"ping-SG_1-mtr" style=3D"width:99%">
+                <span id=3D"td-SG_1-mtr-report-show" style=3D"color: rgb(16=
+, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-SG_1-mtr-report-loading" style=3D"color: rgb=
+(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-SG_1-mtr-report" style=3D"background-color: rgb(0, 24, 0);=
+ outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-SG_1-mtr-report">0. =
+ <a target=3D"_blank" href=3D"http://bgp.he.net/ip/128.199.126.0"><span>128=
+.199.126.0</span></a>    Loss%  Snt   Last  Avg   Best  Wrst  StDev AS Name=
+                         PTR
+1.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/???"><span>???</span>=
+</a>              100.0  20    0.0   0.0   0.0   0.0   0.0   -
+2.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.76.70.38"><span>10=
+.76.70.38</span></a>      0.0%   20    0.5   1.3   0.5   11.0  2.4   -
+3.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/138.197.251.170"><spa=
+n>138.197.251.170</span></a>  0.0%   20    0.4   0.4   0.3   0.4   0.0   -
+4.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/143.244.192.84"><span=
+>143.244.192.84</span></a>   0.0%   20    0.4   0.5   0.3   0.6   0.1   -
+5.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/143.244.224.230"><spa=
+n>143.244.224.230</span></a>  0.0%   20    1.0   0.9   0.8   1.1   0.1   <a=
+ target=3D"_blank" href=3D"http://bgp.he.net/AS14061" title=3D"DIGITALOCEAN=
+-ASN"><span>14061 US DIGITALOCEAN</span></a>     <span title=3D""></span>
+6.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/143.244.224.209"><spa=
+n>143.244.224.209</span></a>  0.0%   20    0.7   0.7   0.6   0.9   0.1   <a=
+ target=3D"_blank" href=3D"http://bgp.he.net/AS14061" title=3D"DIGITALOCEAN=
+-ASN"><span>14061 US DIGITALOCEAN</span></a>     <span title=3D""></span>
+7.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/???"><span>???</span>=
+</a>              100.0  20    0.0   0.0   0.0   0.0   0.0   -
+8.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/213.248.84.177"><span=
+>213.248.84.177</span></a>   65.0%  20    1.3   1.6   1.3   2.5   0.4   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS1299" title=3D"TWELVE99 Areli=
+on, fka Telia Carrier"><span>1299  SE TWELVE99</span></a>         <span tit=
+le=3D"cloudflare-svc082006-ic371888.ip.twelve99-cust.net">cloudflare-svc082=
+006-ic371888...</span>
+9.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.70.146.5"><span>1=
+72.70.146.5</span></a>     0.0%   20    1.8   4.7   1.5   30.9  7.1   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET">=
+<span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+10. <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   0.0%   20    1.0   1.0   0.9   1.2   0.1   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-JP_1-tr">
+            <td id=3D"ping-JP_1-location">
+                Japan, Tokyo
+            </td>
+            <td id=3D"ping-JP_1-provider">
+                Vultr
+            </td>
+            <td id=3D"ping-JP_1-mtr" style=3D"width:99%">
+                <span id=3D"td-JP_1-mtr-report-show" style=3D"color: rgb(16=
+, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-JP_1-mtr-report-loading" style=3D"color: rgb=
+(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-JP_1-mtr-report" style=3D"background-color: rgb(0, 24, 0);=
+ outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-JP_1-mtr-report">0. =
+ <a target=3D"_blank" href=3D"http://bgp.he.net/ip/45.77.19.0"><span>45.77.=
+19.0</span></a>       Loss%  Snt   Last  Avg   Best  Wrst  StDev AS Name   =
+                      PTR
+1.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/???"><span>???</span>=
+</a>              100.0  20    0.0   0.0   0.0   0.0   0.0   -
+2.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/209.222.31.193"><span=
+>209.222.31.193</span></a>   50.0%  20    9671. 9681. 9592. 9763. 58.3  <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS20473" title=3D"AS-CHOOPA"><s=
+pan>20473 US CHOOPA</span></a>           <span title=3D""></span>
+3.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.71.1.233"><span>10=
+.71.1.233</span></a>      0.0%   20    0.9   1.0   0.8   1.6   0.2   -
+4.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.71.0.245"><span>10=
+.71.0.245</span></a>      0.0%   20    10.9  25.8  0.8   459.4 102.2 -
+5.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/203.190.230.72"><span=
+>203.190.230.72</span></a>   0.0%   20    1.2   2.7   0.9   26.1  5.7   -
+6.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.68.116.2"><span>1=
+72.68.116.2</span></a>     0.0%   20    1.4   3.5   0.6   15.0  4.4   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET">=
+<span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+7.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   0.0%   20    0.6   0.8   0.6   1.9   0.3   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-AU_1-tr">
+            <td id=3D"ping-AU_1-location">
+                Australia, Sydney
+            </td>
+            <td id=3D"ping-AU_1-provider">
+                Vultr
+            </td>
+            <td id=3D"ping-AU_1-mtr" style=3D"width:99%">
+                <span id=3D"td-AU_1-mtr-report-show" style=3D"color: rgb(16=
+, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-AU_1-mtr-report-loading" style=3D"color: rgb=
+(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-AU_1-mtr-report" style=3D"background-color: rgb(0, 24, 0);=
+ outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-AU_1-mtr-report">0. =
+ <a target=3D"_blank" href=3D"http://bgp.he.net/ip/45.76.118.0"><span>45.76=
+.118.0</span></a>      Loss%  Snt   Last  Avg   Best  Wrst  StDev AS Name  =
+                       PTR
+1.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/???"><span>???</span>=
+</a>              100.0  20    0.0   0.0   0.0   0.0   0.0   -
+2.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/100.100.200.1"><span>=
+100.100.200.1</span></a>    0.0%   20    12.6  16.3  11.4  21.6  2.9   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS25472" title=3D"WIND-AS Nova T=
+elecommunications &amp; Media Single Member S.A"><span>25472 GR WIND-AS Nov=
+a</span></a>     <span title=3D""></span>
+3.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.74.0.29"><span>10.=
+74.0.29</span></a>       0.0%   20    1.0   2.1   0.8   7.9   2.2   -
+4.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.74.1.197"><span>10=
+.74.1.197</span></a>      0.0%   20    0.6   2.4   0.3   14.4  4.2   -
+5.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/103.26.68.78"><span>1=
+03.26.68.78</span></a>     0.0%   20    1.7   3.1   1.4   19.6  4.4   -
+6.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.69.60.5"><span>17=
+2.69.60.5</span></a>      0.0%   20    1.8   2.5   1.1   12.9  3.0   <a tar=
+get=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET"><=
+span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+7.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   0.0%   20    1.3   1.3   1.2   1.4   0.1   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-TW_1-tr">
+            <td id=3D"ping-TW_1-location">
+                Taiwan, Taichung
+            </td>
+            <td id=3D"ping-TW_1-provider">
+                Google
+            </td>
+            <td id=3D"ping-TW_1-mtr" style=3D"width:99%">
+                <span id=3D"td-TW_1-mtr-report-show" style=3D"color: rgb(16=
+, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-TW_1-mtr-report-loading" style=3D"color: rgb=
+(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-TW_1-mtr-report" style=3D"background-color: rgb(0, 24, 0);=
+ outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-TW_1-mtr-report">0. =
+ <a target=3D"_blank" href=3D"http://bgp.he.net/ip/35.221.248.0"><span>35.2=
+21.248.0</span></a>     Loss%  Snt   Last  Avg   Best  Wrst  StDev AS Name =
+                        PTR
+1.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/???"><span>???</span>=
+</a>              100.0  20    0.0   0.0   0.0   0.0   0.0   -
+2.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/72.14.233.0"><span>72=
+.14.233.0</span></a>      0.0%   20    16.9  16.0  12.8  42.7  7.5   <a tar=
+get=3D"_blank" href=3D"http://bgp.he.net/AS15169" title=3D"GOOGLE"><span>15=
+169 US GOOGLE</span></a>           <span title=3D""></span>
+3.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/103.22.203.4"><span>1=
+03.22.203.4</span></a>     0.0%   20    14.1  16.5  13.8  33.2  5.9   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET">=
+<span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+4.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.71.208.2"><span>1=
+72.71.208.2</span></a>     0.0%   20    15.5  15.8  13.1  29.3  5.0   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET">=
+<span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+5.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   0.0%   20    13.4  13.4  13.4  13.5  0.0   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-CN_35-tr">
+            <td id=3D"ping-CN_35-location">
+                China, Shenzhen
+            </td>
+            <td id=3D"ping-CN_35-provider">
+                Aliyun
+            </td>
+            <td id=3D"ping-CN_35-mtr" style=3D"width:99%">
+                <span id=3D"td-CN_35-mtr-report-show" style=3D"color: rgb(1=
+6, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-CN_35-mtr-report-loading" style=3D"color: rg=
+b(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-CN_35-mtr-report" style=3D"background-color: rgb(0, 24, 0)=
+; outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-CN_35-mtr-report">0.=
+  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/120.79.217.0"><span>120=
+.79.217.0</span></a>     Loss%  Snt   Last  Avg   Best  Wrst  StDev AS Name=
+                         PTR
+1   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.220.3.42"><span>10=
+.220.3.42</span></a>      25.0%  20    2.1   2.1   1.7   2.7   0.0   -
+2   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/11.73.9.185"><span>11=
+.73.9.185</span></a>      15.0%  20    2.2   2.5   2.2   4.1   0.4   <a tar=
+get=3D"_blank" href=3D"http://bgp.he.net/AS749" title=3D"DNIC-AS-00749"><sp=
+an>749   US DNIC-00749</span></a>       <span title=3D""></span>
+3   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.222.157.61"><span>=
+10.222.157.61</span></a>    0.0%   20    2.0   4.5   2.0   27.5  6.1   -
+4   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/11.94.171.233"><span>=
+11.94.171.233</span></a>    0.0%   20    2.8   2.7   2.6   2.8   0.0   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS749" title=3D"DNIC-AS-00749"><=
+span>749   US DNIC-00749</span></a>       <span title=3D""></span>
+5   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/11.94.143.146"><span>=
+11.94.143.146</span></a>    0.0%   20    5.9   8.9   3.5   17.1  2.9   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS749" title=3D"DNIC-AS-00749"><=
+span>749   US DNIC-00749</span></a>       <span title=3D""></span>
+6   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/113.96.53.1"><span>11=
+3.96.53.1</span></a>      30.0%  20    4.0   6.2   3.9   25.1  5.7   <a tar=
+get=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKBONE=
+ No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span ti=
+tle=3D""></span>
+7   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/58.61.162.173"><span>=
+58.61.162.173</span></a>    0.0%   20    4.4   4.5   4.4   5.0   0.0   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKBO=
+NE No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span =
+title=3D""></span>
+8   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/119.147.222.93"><span=
+>119.147.222.93</span></a>   15.0%  20    10.7  8.6   7.8   15.3  1.8   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKB=
+ONE No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span=
+ title=3D""></span>
+9   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/202.97.71.238"><span>=
+202.97.71.238</span></a>    55.0%  20    9.6   9.8   9.5   10.9  0.0   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKBO=
+NE No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span =
+title=3D""></span>
+10  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/202.97.94.90"><span>2=
+02.97.94.90</span></a>     0.0%   20    9.0   9.2   9.0   9.6   0.0   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKBON=
+E No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span t=
+itle=3D""></span>
+11  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/202.97.25.134"><span>=
+202.97.25.134</span></a>    5.0%   20    181.0 181.4 175.1 189.3 4.8   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKBO=
+NE No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span =
+title=3D""></span>
+12  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/218.30.53.214"><span>=
+218.30.53.214</span></a>    10.0%  20    253.9 333.4 235.5 373.8 37.8  <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKBO=
+NE No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span =
+title=3D""></span>
+13  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.69.132.4"><span>1=
+72.69.132.4</span></a>     15.0%  20    302.7 300.5 250.9 313.6 16.5  <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET">=
+<span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+14  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   10.0%  20    290.3 280.5 207.8 300.7 21.8  <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-CN_37-tr">
+            <td id=3D"ping-CN_37-location">
+                China, Guangzhou
+            </td>
+            <td id=3D"ping-CN_37-provider">
+                Tencent
+            </td>
+            <td id=3D"ping-CN_37-mtr" style=3D"width:99%">
+                <span id=3D"td-CN_37-mtr-report-show" style=3D"color: rgb(1=
+6, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-CN_37-mtr-report-loading" style=3D"color: rg=
+b(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-CN_37-mtr-report" style=3D"background-color: rgb(0, 24, 0)=
+; outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-CN_37-mtr-report">0.=
+  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/134.175.60.0"><span>134=
+.175.60.0</span></a>     Loss%  Snt   Last  Avg   Best  Wrst  StDev AS Name=
+                         PTR
+1   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/9.31.22.129"><span>9.=
+31.22.129</span></a>      0.0%   20    2.3   2.2   2.1   2.3   0.0   -
+2   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/9.31.119.84"><span>9.=
+31.119.84</span></a>      55.0%  20    2.3   2.3   2.2   2.5   0.0   -
+3   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.196.18.61"><span>1=
+0.196.18.61</span></a>     85.0%  20    2.4   2.3   2.3   2.4   0.0   -
+4   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.162.32.253"><span>=
+10.162.32.253</span></a>    0.0%   20    2.6   2.8   2.6   4.0   0.2   -
+5   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.162.32.145"><span>=
+10.162.32.145</span></a>    0.0%   20    2.8   2.8   2.5   3.0   0.0   -
+6   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/14.18.199.105"><span>=
+14.18.199.105</span></a>    55.0%  20    5.8   5.8   5.2   9.1   1.1   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKBO=
+NE No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span =
+title=3D""></span>
+7   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/113.108.209.149"><spa=
+n>113.108.209.149</span></a>  0.0%   20    4.9   6.8   2.9   10.8  2.2   <a=
+ target=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACK=
+BONE No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <spa=
+n title=3D""></span>
+8   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/113.96.4.49"><span>11=
+3.96.4.49</span></a>      30.0%  20    3.8   3.8   3.7   4.1   0.0   <a tar=
+get=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKBONE=
+ No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span ti=
+tle=3D""></span>
+9   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/202.97.93.81"><span>2=
+02.97.93.81</span></a>     10.0%  20    4.8   4.6   4.4   5.1   0.0   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKBON=
+E No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span t=
+itle=3D""></span>
+10  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/202.97.65.93"><span>2=
+02.97.65.93</span></a>     15.0%  20    5.6   6.0   5.5   10.2  1.1   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKBON=
+E No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span t=
+itle=3D""></span>
+11  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/202.97.25.134"><span>=
+202.97.25.134</span></a>    0.0%   20    166.4 167.9 156.4 175.0 6.0   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKBO=
+NE No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span =
+title=3D""></span>
+12  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/218.30.53.214"><span>=
+218.30.53.214</span></a>    20.0%  20    160.2 162.6 160.1 176.7 5.0   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKBO=
+NE No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span =
+title=3D""></span>
+13  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.69.132.4"><span>1=
+72.69.132.4</span></a>     5.0%   20    169.1 165.1 158.1 180.5 5.1   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET">=
+<span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+14  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   10.0%  20    165.0 164.9 164.6 165.1 0.0   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-CN_40-tr">
+            <td id=3D"ping-CN_40-location">
+                China, Beijing
+            </td>
+            <td id=3D"ping-CN_40-provider">
+                Aliyun
+            </td>
+            <td id=3D"ping-CN_40-mtr" style=3D"width:99%">
+                <span id=3D"td-CN_40-mtr-report-show" style=3D"color: rgb(1=
+6, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-CN_40-mtr-report-loading" style=3D"color: rg=
+b(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-CN_40-mtr-report" style=3D"background-color: rgb(0, 24, 0)=
+; outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-CN_40-mtr-report">0.=
+  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/39.106.209.0"><span>39.=
+106.209.0</span></a>     Loss%  Snt   Last  Avg   Best  Wrst  StDev AS Name=
+                         PTR
+1   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.90.91.2"><span>10.=
+90.91.2</span></a>       30.0%  20    0.9   0.7   0.5   0.9   0.0   -
+2   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/11.73.0.93"><span>11.=
+73.0.93</span></a>       5.0%   20    2.2   2.6   1.6   5.3   0.7   <a targ=
+et=3D"_blank" href=3D"http://bgp.he.net/AS749" title=3D"DNIC-AS-00749"><spa=
+n>749   US DNIC-00749</span></a>       <span title=3D""></span>
+3   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.54.161.1"><span>10=
+.54.161.1</span></a>      0.0%   20    0.5   0.5   0.3   0.7   0.0   -
+4   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/???"><span>???</span>=
+</a>              100.0  20    0.0   0.0   0.0   0.0   0.0   -
+5   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/116.251.112.193"><spa=
+n>116.251.112.193</span></a>  0.0%   20    1.7   1.8   1.7   2.5   0.0   <a=
+ target=3D"_blank" href=3D"http://bgp.he.net/AS45102" title=3D"ALIBABA-CN-N=
+ET Alibaba US Technology Co., Ltd."><span>45102 CN ALIBABA-CN-NET</span></a=
+>   <span title=3D""></span>
+6   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/???"><span>???</span>=
+</a>              100.0  20    0.0   0.0   0.0   0.0   0.0   -
+7   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/36.110.247.61"><span>=
+36.110.247.61</span></a>    0.0%   20    3.8   3.9   3.8   4.5   0.0   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS23724" title=3D"CHINANET-IDC-B=
+J-AP IDC, China Telecommunications Corporation"><span>23724 CN CHINANET-IDC=
+-BJ</span></a>  <span title=3D""></span>
+8   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/202.97.61.166"><span>=
+202.97.61.166</span></a>    85.0%  20    5.1   5.1   5.0   5.2   0.0   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKBO=
+NE No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span =
+title=3D""></span>
+9   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/202.97.55.238"><span>=
+202.97.55.238</span></a>    5.0%   20    5.6   5.5   5.3   5.9   0.0   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKBO=
+NE No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span =
+title=3D""></span>
+10  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/202.97.43.110"><span>=
+202.97.43.110</span></a>    15.0%  20    158.6 154.2 148.5 158.6 2.9   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKBO=
+NE No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span =
+title=3D""></span>
+11  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/218.30.53.214"><span>=
+218.30.53.214</span></a>    5.0%   20    267.2 267.4 227.1 315.8 25.4  <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKBO=
+NE No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span =
+title=3D""></span>
+12  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.69.132.4"><span>1=
+72.69.132.4</span></a>     0.0%   20    228.0 242.1 219.2 257.2 9.5   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET">=
+<span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+13  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   10.0%  20    226.0 235.2 200.4 245.1 13.2  <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-CN_50-tr">
+            <td id=3D"ping-CN_50-location">
+                China, Beijing
+            </td>
+            <td id=3D"ping-CN_50-provider">
+                Tencent
+            </td>
+            <td id=3D"ping-CN_50-mtr" style=3D"width:99%">
+                <span id=3D"td-CN_50-mtr-report-show" style=3D"color: rgb(1=
+6, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-CN_50-mtr-report-loading" style=3D"color: rg=
+b(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-CN_50-mtr-report" style=3D"background-color: rgb(0, 24, 0)=
+; outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-CN_50-mtr-report">0.=
+  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/82.157.16.0"><span>82.1=
+57.16.0</span></a>      Loss%  Snt   Last  Avg   Best  Wrst  StDev AS Name =
+                        PTR
+1   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/11.38.17.130"><span>1=
+1.38.17.130</span></a>     0.0%   20    0.5   0.5   0.4   0.7   0.0   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS749" title=3D"DNIC-AS-00749"><s=
+pan>749   US DNIC-00749</span></a>       <span title=3D""></span>
+2   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/11.38.86.22"><span>11=
+.38.86.22</span></a>      20.0%  20    0.5   0.6   0.5   1.2   0.0   <a tar=
+get=3D"_blank" href=3D"http://bgp.he.net/AS749" title=3D"DNIC-AS-00749"><sp=
+an>749   US DNIC-00749</span></a>       <span title=3D""></span>
+3   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.196.57.77"><span>1=
+0.196.57.77</span></a>     15.0%  20    0.8   0.7   0.5   1.2   0.0   -
+4   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.162.36.77"><span>1=
+0.162.36.77</span></a>     0.0%   20    2.3   2.3   2.2   2.6   0.0   -
+5   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/36.110.203.233"><span=
+>36.110.203.233</span></a>   95.0%  20    3.2   3.2   3.2   3.2   0.0   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS23724" title=3D"CHINANET-IDC-=
+BJ-AP IDC, China Telecommunications Corporation"><span>23724 CN CHINANET-ID=
+C-BJ</span></a>  <span title=3D""></span>
+6   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/36.110.246.49"><span>=
+36.110.246.49</span></a>    0.0%   20    3.1   3.6   3.0   12.6  2.0   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS23724" title=3D"CHINANET-IDC-B=
+J-AP IDC, China Telecommunications Corporation"><span>23724 CN CHINANET-IDC=
+-BJ</span></a>  <span title=3D""></span>
+7   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/202.97.34.74"><span>2=
+02.97.34.74</span></a>     20.0%  20    3.7   4.0   3.6   6.3   0.6   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKBON=
+E No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span t=
+itle=3D""></span>
+8   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/202.97.12.50"><span>2=
+02.97.12.50</span></a>     50.0%  20    5.3   5.5   5.3   6.3   0.0   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKBON=
+E No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span t=
+itle=3D""></span>
+9   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/202.97.43.110"><span>=
+202.97.43.110</span></a>    10.0%  20    154.2 153.2 149.8 157.7 1.8   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKBO=
+NE No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span =
+title=3D""></span>
+10  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/218.30.53.214"><span>=
+218.30.53.214</span></a>    10.0%  20    147.8 162.8 147.7 187.6 14.9  <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKBO=
+NE No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span =
+title=3D""></span>
+11  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.68.188.22"><span>=
+172.68.188.22</span></a>    15.0%  20    157.5 157.5 152.1 166.7 2.7   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET"=
+><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+12  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   5.0%   20    157.0 154.3 145.1 157.5 3.9   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-CN_90-tr">
+            <td id=3D"ping-CN_90-location">
+                China, Quanzhou
+            </td>
+            <td id=3D"ping-CN_90-provider">
+                China Telecom CN2
+            </td>
+            <td id=3D"ping-CN_90-mtr" style=3D"width:99%">
+                <span id=3D"td-CN_90-mtr-report-show" style=3D"color: rgb(1=
+6, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-CN_90-mtr-report-loading" style=3D"color: rg=
+b(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-CN_90-mtr-report" style=3D"background-color: rgb(0, 24, 0)=
+; outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-CN_90-mtr-report">0.=
+  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/117.28.245.0"><span>117=
+.28.245.0</span></a>     Loss%  Snt   Last  Avg   Best  Wrst  StDev AS Name=
+                         PTR
+1   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.16.0.1"><span>172=
+.16.0.1</span></a>       95.0%  20    0.2   0.2   0.2   0.2   0.0   -
+2   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/???"><span>???</span>=
+</a>              100.0  20    0.0   0.0   0.0   0.0   0.0   -
+3   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/192.168.131.1"><span>=
+192.168.131.1</span></a>    0.0%   20    2.0   1.8   1.3   2.7   0.2   -
+4   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/192.168.1.13"><span>1=
+92.168.1.13</span></a>     5.0%   20    3.0   3.0   2.6   4.4   0.0   -
+5   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.1.0.70"><span>10.1=
+.0.70</span></a>        0.0%   20    3.4   2.2   1.0   11.4  2.3   -
+6   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.1.0.69"><span>10.1=
+.0.69</span></a>        0.0%   20    1.3   1.3   1.0   3.4   0.5   -
+7   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/222.77.78.174"><span>=
+222.77.78.174</span></a>    0.0%   20    1.0   1.1   0.9   1.6   0.0   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKBO=
+NE No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span =
+title=3D""></span>
+8   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/59.43.74.53"><span>59=
+.43.74.53</span></a>      0.0%   20    2.2   3.8   2.0   10.1  2.4   <a tar=
+get=3D"_blank" href=3D"http://bgp.he.net/AS4809" title=3D"CHINATELECOM-CN2 =
+- China Telecom Next Generation Carrier Network, CN"><span>4809  CN CHINATE=
+LECOM-CN2</span></a> <span title=3D""></span>
+9   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/59.43.152.17"><span>5=
+9.43.152.17</span></a>     0.0%   20    4.5   5.9   4.0   21.0  3.9   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS4809" title=3D"CHINATELECOM-CN2=
+ - China Telecom Next Generation Carrier Network, CN"><span>4809  CN CHINAT=
+ELECOM-CN2</span></a> <span title=3D""></span>
+10  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/59.43.46.213"><span>5=
+9.43.46.213</span></a>     0.0%   20    17.5  17.5  17.3  18.9  0.3   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS4809" title=3D"CHINATELECOM-CN2=
+ - China Telecom Next Generation Carrier Network, CN"><span>4809  CN CHINAT=
+ELECOM-CN2</span></a> <span title=3D""></span>
+11  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/59.43.16.182"><span>5=
+9.43.16.182</span></a>     50.0%  20    20.8  20.8  20.6  21.6  0.0   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS4809" title=3D"CHINATELECOM-CN2=
+ - China Telecom Next Generation Carrier Network, CN"><span>4809  CN CHINAT=
+ELECOM-CN2</span></a> <span title=3D""></span>
+12  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/59.43.187.98"><span>5=
+9.43.187.98</span></a>     0.0%   20    21.0  22.4  20.9  42.3  4.7   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS4809" title=3D"CHINATELECOM-CN2=
+ - China Telecom Next Generation Carrier Network, CN"><span>4809  CN CHINAT=
+ELECOM-CN2</span></a> <span title=3D""></span>
+13  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/59.43.248.246"><span>=
+59.43.248.246</span></a>    0.0%   20    25.5  25.5  25.4  25.7  0.0   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS4809" title=3D"CHINATELECOM-CN=
+2 - China Telecom Next Generation Carrier Network, CN"><span>4809  CN CHINA=
+TELECOM-CN2</span></a> <span title=3D""></span>
+14  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/203.131.241.65"><span=
+>203.131.241.65</span></a>   0.0%   20    28.5  27.9  25.6  39.6  3.7   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS2914" title=3D"NTT-LTD-2914">=
+<span>2914  US NTT-LTD-2914</span></a>     <span title=3D"xe-0-0-17-2.a00.c=
+hwahk02.hk.bb.gin.ntt.net">xe-0-0-17-2.a00.chwahk02.hk.b...</span>
+15  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/129.250.5.178"><span>=
+129.250.5.178</span></a>    0.0%   20    29.3  31.6  28.3  57.9  6.3   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS2914" title=3D"NTT-LTD-2914"><=
+span>2914  US NTT-LTD-2914</span></a>     <span title=3D"ae-11.r27.tkokhk01=
+.hk.bb.gin.ntt.net">ae-11.r27.tkokhk01.hk.bb.gin...</span>
+16  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/129.250.6.100"><span>=
+129.250.6.100</span></a>    0.0%   20    26.9  27.2  26.9  29.8  0.6   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS2914" title=3D"NTT-LTD-2914"><=
+span>2914  US NTT-LTD-2914</span></a>     <span title=3D"ae-2.r03.tkokhk01.=
+hk.bb.gin.ntt.net">ae-2.r03.tkokhk01.hk.bb.gin.n...</span>
+17  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/203.131.240.78"><span=
+>203.131.240.78</span></a>   0.0%   20    175.9 189.6 174.9 247.4 23.2  <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS2914" title=3D"NTT-LTD-2914">=
+<span>2914  US NTT-LTD-2914</span></a>     <span title=3D""></span>
+18  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.71.212.4"><span>1=
+72.71.212.4</span></a>     0.0%   20    170.3 174.9 169.7 237.5 15.2  <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET">=
+<span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+19  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   0.0%   20    162.2 162.4 162.0 168.5 1.3   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-CN_103-tr">
+            <td id=3D"ping-CN_103-location">
+                China, Jiangsu
+            </td>
+            <td id=3D"ping-CN_103-provider">
+                China Telecom
+            </td>
+            <td id=3D"ping-CN_103-mtr" style=3D"width:99%">
+                <span id=3D"td-CN_103-mtr-report-show" style=3D"color: rgb(=
+16, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-CN_103-mtr-report-loading" style=3D"color: r=
+gb(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-CN_103-mtr-report" style=3D"background-color: rgb(0, 24, 0=
+); outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-CN_103-mtr-report">0=
+.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/221.229.173.0"><span>2=
+21.229.173.0</span></a>    Loss%  Snt   Last  Avg   Best  Wrst  StDev AS Na=
+me                         PTR
+1   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/221.229.173.1"><span>=
+221.229.173.1</span></a>    0.0%   20    10.5  6.8   3.3   32.9  7.3   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKBO=
+NE No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span =
+title=3D""></span>
+2   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.1.2.1"><span>10.1.=
+2.1</span></a>         0.0%   20    0.7   2.8   0.6   39.4  8.6   -
+3   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/???"><span>???</span>=
+</a>              100.0  20    0.0   0.0   0.0   0.0   0.0   -
+4   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.20.7.57"><span>17=
+2.20.7.57</span></a>      0.0%   20    1.8   2.3   1.8   7.9   1.3   -
+5   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/221.229.193.229"><spa=
+n>221.229.193.229</span></a>  5.0%   20    11.3  9.1   8.6   11.3  0.6   <a=
+ target=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACK=
+BONE No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <spa=
+n title=3D""></span>
+6   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/202.97.90.145"><span>=
+202.97.90.145</span></a>    65.0%  20    11.8  11.8  11.7  11.9  0.0   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKBO=
+NE No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span =
+title=3D""></span>
+7   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/202.97.64.182"><span>=
+202.97.64.182</span></a>    0.0%   20    16.1  16.3  12.3  26.3  3.5   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKBO=
+NE No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span =
+title=3D""></span>
+8   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/202.97.51.161"><span>=
+202.97.51.161</span></a>    85.0%  20    12.2  12.3  12.2  12.4  0.0   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKBO=
+NE No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span =
+title=3D""></span>
+9   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/202.97.71.198"><span>=
+202.97.71.198</span></a>    0.0%   20    136.4 140.4 134.5 147.7 3.7   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKBO=
+NE No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span =
+title=3D""></span>
+10  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/218.30.53.214"><span>=
+218.30.53.214</span></a>    0.0%   20    200.5 183.5 169.6 236.6 18.3  <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKBO=
+NE No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span =
+title=3D""></span>
+11  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.68.188.22"><span>=
+172.68.188.22</span></a>    0.0%   20    174.2 175.4 170.8 194.8 6.4   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET"=
+><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+12  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   0.0%   20    134.6 135.5 134.6 137.9 1.0   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-CN_104-tr">
+            <td id=3D"ping-CN_104-location">
+                China, Jiangsu
+            </td>
+            <td id=3D"ping-CN_104-provider">
+                China Mobile
+            </td>
+            <td id=3D"ping-CN_104-mtr" style=3D"width:99%">
+                <span id=3D"td-CN_104-mtr-report-show" style=3D"color: rgb(=
+16, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-CN_104-mtr-report-loading" style=3D"color: r=
+gb(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-CN_104-mtr-report" style=3D"background-color: rgb(0, 24, 0=
+); outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-CN_104-mtr-report">0=
+.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/120.195.6.0"><span>120=
+.195.6.0</span></a>      Loss%  Snt   Last  Avg   Best  Wrst  StDev AS Name=
+                         PTR
+1   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/120.195.6.129"><span>=
+120.195.6.129</span></a>    0.0%   20    3.9   4.1   3.3   12.4  1.9   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS56046" title=3D"CMNET-JIANGSU-=
+AP China Mobile communications corporation"><span>56046 CN CMNET-JIANGSU-AP=
+</span></a> <span title=3D""></span>
+2   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.10.87.1"><span>10.=
+10.87.1</span></a>       0.0%   20    1.7   2.1   1.4   10.6  1.9   -
+3   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.41.0.1"><span>10.4=
+1.0.1</span></a>        0.0%   20    0.6   1.0   0.6   2.6   0.4   -
+4   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.109.25.25"><span>1=
+0.109.25.25</span></a>     0.0%   20    0.9   0.9   0.7   1.0   0.0   -
+5   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/120.195.42.129"><span=
+>120.195.42.129</span></a>   20.0%  20    1.5   1.7   1.4   4.5   0.7   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS56046" title=3D"CMNET-JIANGSU=
+-AP China Mobile communications corporation"><span>56046 CN CMNET-JIANGSU-A=
+P</span></a> <span title=3D""></span>
+6   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/223.109.119.5"><span>=
+223.109.119.5</span></a>    0.0%   20    1.4   1.5   1.3   1.9   0.0   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS56046" title=3D"CMNET-JIANGSU-=
+AP China Mobile communications corporation"><span>56046 CN CMNET-JIANGSU-AP=
+</span></a> <span title=3D""></span>
+7   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/223.109.119.45"><span=
+>223.109.119.45</span></a>   25.0%  20    1.7   1.6   1.5   1.9   0.0   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS56046" title=3D"CMNET-JIANGSU=
+-AP China Mobile communications corporation"><span>56046 CN CMNET-JIANGSU-A=
+P</span></a> <span title=3D""></span>
+8   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/183.207.20.33"><span>=
+183.207.20.33</span></a>    0.0%   20    9.6   9.6   9.5   9.8   0.0   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS56046" title=3D"CMNET-JIANGSU-=
+AP China Mobile communications corporation"><span>56046 CN CMNET-JIANGSU-AP=
+</span></a> <span title=3D"33.20.207.183.static.js.chinamobile.com">33.20.2=
+07.183.static.js.china...</span>
+9   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/111.24.6.37"><span>11=
+1.24.6.37</span></a>      0.0%   20    10.4  13.4  10.4  31.2  7.0   <a tar=
+get=3D"_blank" href=3D"http://bgp.he.net/AS9808" title=3D"CHINAMOBILE-CN Ch=
+ina Mobile Communications Group Co., Ltd."><span>9808  CN CHINAMOBILE-CN</s=
+pan></a>   <span title=3D""></span>
+10  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/221.183.125.145"><spa=
+n>221.183.125.145</span></a>  0.0%   20    19.6  20.4  18.8  24.0  1.7   <a=
+ target=3D"_blank" href=3D"http://bgp.he.net/AS9808" title=3D"CHINAMOBILE-C=
+N China Mobile Communications Group Co., Ltd."><span>9808  CN CHINAMOBILE-C=
+N</span></a>   <span title=3D""></span>
+11  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/221.183.89.1"><span>2=
+21.183.89.1</span></a>     10.0%  20    16.9  17.1  16.9  17.9  0.0   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS9808" title=3D"CHINAMOBILE-CN C=
+hina Mobile Communications Group Co., Ltd."><span>9808  CN CHINAMOBILE-CN</=
+span></a>   <span title=3D""></span>
+12  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/221.183.89.34"><span>=
+221.183.89.34</span></a>    0.0%   20    15.8  15.8  15.7  16.3  0.0   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS9808" title=3D"CHINAMOBILE-CN =
+China Mobile Communications Group Co., Ltd."><span>9808  CN CHINAMOBILE-CN<=
+/span></a>   <span title=3D""></span>
+13  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/221.183.89.177"><span=
+>221.183.89.177</span></a>   5.0%   20    17.9  17.8  17.6  18.0  0.0   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS9808" title=3D"CHINAMOBILE-CN=
+ China Mobile Communications Group Co., Ltd."><span>9808  CN CHINAMOBILE-CN=
+</span></a>   <span title=3D""></span>
+14  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/223.120.15.205"><span=
+>223.120.15.205</span></a>   0.0%   20    240.1 240.8 239.9 253.7 2.9   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS58453" title=3D"CMI-INT-HK Le=
+vel 30, Tower 1"><span>58453 HK CMI-INT-HK Level</span></a> <span title=3D"=
+"></span>
+15  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/223.120.10.138"><span=
+>223.120.10.138</span></a>   5.0%   20    237.9 238.9 234.8 241.5 1.9   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS58453" title=3D"CMI-INT-HK Le=
+vel 30, Tower 1"><span>58453 HK CMI-INT-HK Level</span></a> <span title=3D"=
+"></span>
+16  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/223.119.65.38"><span>=
+223.119.65.38</span></a>    0.0%   20    241.2 245.0 237.9 272.3 8.5   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS58453" title=3D"CMI-INT-HK Lev=
+el 30, Tower 1"><span>58453 HK CMI-INT-HK Level</span></a> <span title=3D""=
+></span>
+17  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/162.158.84.53"><span>=
+162.158.84.53</span></a>    5.0%   20    238.7 238.9 234.8 256.2 5.3   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET"=
+><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+18  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   5.0%   20    241.6 240.5 238.3 241.7 1.3   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-CN_105-tr">
+            <td id=3D"ping-CN_105-location">
+                China, Jiangsu
+            </td>
+            <td id=3D"ping-CN_105-provider">
+                China Unicom
+            </td>
+            <td id=3D"ping-CN_105-mtr" style=3D"width:99%">
+                <span id=3D"td-CN_105-mtr-report-show" style=3D"color: rgb(=
+16, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-CN_105-mtr-report-loading" style=3D"color: r=
+gb(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-CN_105-mtr-report" style=3D"background-color: rgb(0, 24, 0=
+); outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-CN_105-mtr-report">0=
+.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/112.85.231.0"><span>11=
+2.85.231.0</span></a>     Loss%  Snt   Last  Avg   Best  Wrst  StDev AS Nam=
+e                         PTR
+1   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/???"><span>???</span>=
+</a>              100.0  20    0.0   0.0   0.0   0.0   0.0   -
+2   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.101.0.1"><span>10.=
+101.0.1</span></a>       0.0%   20    1.5   4.3   1.4   27.6  7.1   -
+3   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.41.0.1"><span>10.4=
+1.0.1</span></a>        0.0%   20    4.9   2.8   0.5   29.1  6.5   -
+4   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/112.85.218.149"><span=
+>112.85.218.149</span></a>   0.0%   20    3.2   3.1   2.7   5.0   0.4   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS4837" title=3D"CHINA169-BACKB=
+ONE CHINA UNICOM China169 Backbone"><span>4837  CN CHINA169-BACKBON</span><=
+/a> <span title=3D""></span>
+5   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/122.194.150.189"><spa=
+n>122.194.150.189</span></a>  0.0%   20    1.4   1.5   1.4   1.7   0.0   <a=
+ target=3D"_blank" href=3D"http://bgp.he.net/AS4837" title=3D"CHINA169-BACK=
+BONE CHINA UNICOM China169 Backbone"><span>4837  CN CHINA169-BACKBON</span>=
+</a> <span title=3D""></span>
+6   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/112.85.230.105"><span=
+>112.85.230.105</span></a>   0.0%   20    11.3  10.4  9.4   11.3  0.2   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS4837" title=3D"CHINA169-BACKB=
+ONE CHINA UNICOM China169 Backbone"><span>4837  CN CHINA169-BACKBON</span><=
+/a> <span title=3D""></span>
+7   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/219.158.18.5"><span>2=
+19.158.18.5</span></a>     0.0%   20    17.4  17.5  16.4  18.5  0.3   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS4837" title=3D"CHINA169-BACKBON=
+E CHINA UNICOM China169 Backbone"><span>4837  CN CHINA169-BACKBON</span></a=
+> <span title=3D""></span>
+8   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/219.158.7.134"><span>=
+219.158.7.134</span></a>    0.0%   20    19.4  20.5  17.5  24.3  2.1   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS4837" title=3D"CHINA169-BACKBO=
+NE CHINA UNICOM China169 Backbone"><span>4837  CN CHINA169-BACKBON</span></=
+a> <span title=3D""></span>
+9   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/219.158.8.190"><span>=
+219.158.8.190</span></a>    0.0%   20    22.0  21.6  17.7  24.7  1.9   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS4837" title=3D"CHINA169-BACKBO=
+NE CHINA UNICOM China169 Backbone"><span>4837  CN CHINA169-BACKBON</span></=
+a> <span title=3D""></span>
+10  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/219.158.102.134"><spa=
+n>219.158.102.134</span></a>  0.0%   20    151.7 150.2 148.3 152.2 1.1   <a=
+ target=3D"_blank" href=3D"http://bgp.he.net/AS4837" title=3D"CHINA169-BACK=
+BONE CHINA UNICOM China169 Backbone"><span>4837  CN CHINA169-BACKBON</span>=
+</a> <span title=3D""></span>
+11  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/204.148.55.105"><span=
+>204.148.55.105</span></a>   10.0%  20    244.6 242.2 187.2 265.3 18.6  <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS701" title=3D"UUNET"><span>70=
+1   US UUNET</span></a>            <span title=3D"&amp;#10.55.148.204.in-ad=
+dr.arpa">&amp;#10.55.148.204.in-addr.arpa</span>
+12  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/140.222.5.71"><span>1=
+40.222.5.71</span></a>     0.0%   20    248.5 239.5 208.7 249.5 14.5  -
+13  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/204.148.55.202"><span=
+>204.148.55.202</span></a>   5.0%   20    295.8 263.8 219.3 295.8 21.8  <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS701" title=3D"UUNET"><span>70=
+1   US UUNET</span></a>            <span title=3D""></span>
+14  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/162.158.164.4"><span>=
+162.158.164.4</span></a>    5.0%   20    260.8 256.2 232.1 264.9 7.9   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET"=
+><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+15  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   5.0%   20    260.8 251.3 219.9 261.4 14.2  <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-CN_150-tr">
+            <td id=3D"ping-CN_150-location">
+                China, Hangzhou
+            </td>
+            <td id=3D"ping-CN_150-provider">
+                Aliyun
+            </td>
+            <td id=3D"ping-CN_150-mtr" style=3D"width:99%">
+                <span id=3D"td-CN_150-mtr-report-show" style=3D"color: rgb(=
+16, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-CN_150-mtr-report-loading" style=3D"color: r=
+gb(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-CN_150-mtr-report" style=3D"background-color: rgb(0, 24, 0=
+); outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-CN_150-mtr-report">0=
+.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/47.96.79.0"><span>47.9=
+6.79.0</span></a>       Loss%  Snt   Last  Avg   Best  Wrst  StDev AS Name =
+                        PTR
+1   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.4.12.58"><span>10.=
+4.12.58</span></a>       15.0%  20    2.6   2.5   2.3   3.2   0.0   -
+2   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.4.12.13"><span>10.=
+4.12.13</span></a>       90.0%  20    2.7   2.8   2.7   2.8   0.0   -
+3   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.222.181.9"><span>1=
+0.222.181.9</span></a>     0.0%   20    2.5   2.5   2.4   2.6   0.0   -
+4   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/11.94.180.18"><span>1=
+1.94.180.18</span></a>     0.0%   20    39.7  7.6   4.1   39.7  8.7   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS749" title=3D"DNIC-AS-00749"><s=
+pan>749   US DNIC-00749</span></a>       <span title=3D""></span>
+5   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.102.41.169"><span>=
+10.102.41.169</span></a>    0.0%   20    4.8   4.8   4.7   4.9   0.0   -
+6   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/115.238.21.126"><span=
+>115.238.21.126</span></a>   95.0%  20    4.5   4.5   4.5   4.5   0.0   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS58461" title=3D"CT-HANGZHOU-I=
+DC No.288,Fu-chun Road"><span>58461 CN CT-HANGZHOU-IDC</span></a>  <span ti=
+tle=3D""></span>
+7   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/220.191.200.157"><spa=
+n>220.191.200.157</span></a>  0.0%   20    5.4   5.4   5.3   5.9   0.0   <a=
+ target=3D"_blank" href=3D"http://bgp.he.net/AS58461" title=3D"CT-HANGZHOU-=
+IDC No.288,Fu-chun Road"><span>58461 CN CT-HANGZHOU-IDC</span></a>  <span t=
+itle=3D""></span>
+8   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/202.97.101.169"><span=
+>202.97.101.169</span></a>   80.0%  20    10.1  10.4  10.0  11.6  0.6   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKB=
+ONE No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span=
+ title=3D""></span>
+9   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/202.97.49.34"><span>2=
+02.97.49.34</span></a>     0.0%   20    25.6  17.8  10.3  25.6  5.3   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKBON=
+E No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span t=
+itle=3D""></span>
+10  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/202.97.74.1"><span>20=
+2.97.74.1</span></a>      95.0%  20    11.8  11.8  11.8  11.8  0.0   <a tar=
+get=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKBONE=
+ No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span ti=
+tle=3D""></span>
+11  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/202.97.27.210"><span>=
+202.97.27.210</span></a>    0.0%   20    165.9 169.7 165.3 173.7 2.8   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKBO=
+NE No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span =
+title=3D""></span>
+12  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/218.30.53.214"><span>=
+218.30.53.214</span></a>    10.0%  20    263.2 262.7 216.2 306.4 21.7  <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKBO=
+NE No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span =
+title=3D""></span>
+13  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.68.188.22"><span>=
+172.68.188.22</span></a>    10.0%  20    293.6 263.8 242.6 293.6 12.3  <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET"=
+><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+14  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   0.0%   20    268.7 260.6 227.6 269.2 11.2  <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-CN_160-tr">
+            <td id=3D"ping-CN_160-location">
+                China, Qingdao
+            </td>
+            <td id=3D"ping-CN_160-provider">
+                Aliyun
+            </td>
+            <td id=3D"ping-CN_160-mtr" style=3D"width:99%">
+                <span id=3D"td-CN_160-mtr-report-show" style=3D"color: rgb(=
+16, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-CN_160-mtr-report-loading" style=3D"color: r=
+gb(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-CN_160-mtr-report" style=3D"background-color: rgb(0, 24, 0=
+); outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-CN_160-mtr-report">0=
+.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/47.105.221.0"><span>47=
+.105.221.0</span></a>     Loss%  Snt   Last  Avg   Best  Wrst  StDev AS Nam=
+e                         PTR
+1   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/11.247.236.42"><span>=
+11.247.236.42</span></a>    0.0%   20    0.6   1.0   0.5   7.1   1.3   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS749" title=3D"DNIC-AS-00749"><=
+span>749   US DNIC-00749</span></a>       <span title=3D""></span>
+2   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/11.73.5.185"><span>11=
+.73.5.185</span></a>      5.0%   20    2.3   2.7   1.9   7.6   1.2   <a tar=
+get=3D"_blank" href=3D"http://bgp.he.net/AS749" title=3D"DNIC-AS-00749"><sp=
+an>749   US DNIC-00749</span></a>       <span title=3D""></span>
+3   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/11.95.17.129"><span>1=
+1.95.17.129</span></a>     0.0%   20    0.7   0.7   0.5   0.9   0.0   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS749" title=3D"DNIC-AS-00749"><s=
+pan>749   US DNIC-00749</span></a>       <span title=3D""></span>
+4   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.102.10.89"><span>1=
+0.102.10.89</span></a>     0.0%   20    0.8   1.0   0.8   3.8   0.6   -
+5   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/103.41.143.46"><span>=
+103.41.143.46</span></a>    0.0%   20    1.2   1.2   1.1   1.3   0.0   -
+6   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/27.221.85.217"><span>=
+27.221.85.217</span></a>    90.0%  20    0.8   0.8   0.7   0.8   0.0   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS4837" title=3D"CHINA169-BACKBO=
+NE CHINA UNICOM China169 Backbone"><span>4837  CN CHINA169-BACKBON</span></=
+a> <span title=3D""></span>
+7   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/27.221.94.197"><span>=
+27.221.94.197</span></a>    0.0%   20    7.0   6.8   5.8   8.3   0.4   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS4837" title=3D"CHINA169-BACKBO=
+NE CHINA UNICOM China169 Backbone"><span>4837  CN CHINA169-BACKBON</span></=
+a> <span title=3D""></span>
+8   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/219.158.14.241"><span=
+>219.158.14.241</span></a>   0.0%   20    19.2  19.7  18.8  20.7  0.3   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS4837" title=3D"CHINA169-BACKB=
+ONE CHINA UNICOM China169 Backbone"><span>4837  CN CHINA169-BACKBON</span><=
+/a> <span title=3D""></span>
+9   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/219.158.7.134"><span>=
+219.158.7.134</span></a>    0.0%   20    19.8  22.3  18.7  26.1  2.2   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS4837" title=3D"CHINA169-BACKBO=
+NE CHINA UNICOM China169 Backbone"><span>4837  CN CHINA169-BACKBON</span></=
+a> <span title=3D""></span>
+10  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/219.158.6.186"><span>=
+219.158.6.186</span></a>    0.0%   20    22.0  23.4  19.9  27.2  2.2   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS4837" title=3D"CHINA169-BACKBO=
+NE CHINA UNICOM China169 Backbone"><span>4837  CN CHINA169-BACKBON</span></=
+a> <span title=3D""></span>
+11  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/219.158.6.6"><span>21=
+9.158.6.6</span></a>      0.0%   20    182.9 180.3 152.7 200.1 11.7  <a tar=
+get=3D"_blank" href=3D"http://bgp.he.net/AS4837" title=3D"CHINA169-BACKBONE=
+ CHINA UNICOM China169 Backbone"><span>4837  CN CHINA169-BACKBON</span></a>=
+ <span title=3D""></span>
+12  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/204.148.55.105"><span=
+>204.148.55.105</span></a>   20.0%  20    262.0 276.6 211.8 312.7 39.3  <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS701" title=3D"UUNET"><span>70=
+1   US UUNET</span></a>            <span title=3D"&amp;#10.55.148.204.in-ad=
+dr.arpa">&amp;#10.55.148.204.in-addr.arpa</span>
+13  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/???"><span>???</span>=
+</a>              100.0  20    0.0   0.0   0.0   0.0   0.0   -
+14  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/204.148.55.202"><span=
+>204.148.55.202</span></a>   10.0%  20    317.0 278.8 213.6 325.2 39.7  <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS701" title=3D"UUNET"><span>70=
+1   US UUNET</span></a>            <span title=3D""></span>
+15  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.69.132.4"><span>1=
+72.69.132.4</span></a>     5.0%   20    296.7 291.2 211.5 335.6 38.0  <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET">=
+<span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+16  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   20.0%  20    291.6 267.1 207.9 304.9 30.9  <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-CN_200-tr">
+            <td id=3D"ping-CN_200-location">
+                China, Zhejiang
+            </td>
+            <td id=3D"ping-CN_200-provider">
+                China Telecom
+            </td>
+            <td id=3D"ping-CN_200-mtr" style=3D"width:99%">
+                <span id=3D"td-CN_200-mtr-report-show" style=3D"color: rgb(=
+16, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-CN_200-mtr-report-loading" style=3D"color: r=
+gb(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-CN_200-mtr-report" style=3D"background-color: rgb(0, 24, 0=
+); outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-CN_200-mtr-report">0=
+.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/61.164.253.0"><span>61=
+.164.253.0</span></a>     Loss%  Snt   Last  Avg   Best  Wrst  StDev AS Nam=
+e                         PTR
+1   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.0.39.1"><span>10.0=
+.39.1</span></a>        80.0%  20    0.1   0.2   0.1   0.2   0.0   -
+2   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/61.164.253.65"><span>=
+61.164.253.65</span></a>    0.0%   20    25.9  16.3  3.3   38.3  9.6   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKBO=
+NE No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span =
+title=3D""></span>
+3   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.16.10.5"><span>17=
+2.16.10.5</span></a>      0.0%   20    23.8  24.8  3.2   51.9  15.4  -
+4   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/???"><span>???</span>=
+</a>              100.0  20    0.0   0.0   0.0   0.0   0.0   -
+5   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/61.174.59.89"><span>6=
+1.174.59.89</span></a>     0.0%   20    10.9  11.5  9.9   19.8  1.9   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKBON=
+E No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span t=
+itle=3D""></span>
+6   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/61.175.46.177"><span>=
+61.175.46.177</span></a>    0.0%   20    10.9  10.8  10.5  11.6  0.0   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKBO=
+NE No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span =
+title=3D""></span>
+7   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/202.97.78.33"><span>2=
+02.97.78.33</span></a>     75.0%  20    13.1  13.1  13.0  13.2  0.0   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKBON=
+E No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span t=
+itle=3D""></span>
+8   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/202.97.48.18"><span>2=
+02.97.48.18</span></a>     0.0%   20    14.6  14.5  14.3  14.7  0.0   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKBON=
+E No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span t=
+itle=3D""></span>
+9   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/202.97.74.33"><span>2=
+02.97.74.33</span></a>     90.0%  20    13.4  13.6  13.4  13.9  0.0   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKBON=
+E No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span t=
+itle=3D""></span>
+10  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/202.97.27.210"><span>=
+202.97.27.210</span></a>    0.0%   20    174.5 174.7 170.1 179.7 2.6   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKBO=
+NE No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span =
+title=3D""></span>
+11  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/218.30.53.214"><span>=
+218.30.53.214</span></a>    0.0%   20    227.4 217.3 204.3 249.3 13.9  <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKBO=
+NE No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span =
+title=3D""></span>
+12  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.71.152.4"><span>1=
+72.71.152.4</span></a>     0.0%   20    207.3 206.8 204.5 213.2 2.2   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET">=
+<span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+13  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   5.0%   20    208.0 209.1 203.7 215.9 4.5   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-CN_210-tr">
+            <td id=3D"ping-CN_210-location">
+                China, Shanghai
+            </td>
+            <td id=3D"ping-CN_210-provider">
+                Aliyun
+            </td>
+            <td id=3D"ping-CN_210-mtr" style=3D"width:99%">
+                <span id=3D"td-CN_210-mtr-report-show" style=3D"color: rgb(=
+16, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-CN_210-mtr-report-loading" style=3D"color: r=
+gb(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-CN_210-mtr-report" style=3D"background-color: rgb(0, 24, 0=
+); outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-CN_210-mtr-report">0=
+.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/47.101.65.0"><span>47.=
+101.65.0</span></a>      Loss%  Snt   Last  Avg   Best  Wrst  StDev AS Name=
+                         PTR
+1   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.90.182.46"><span>1=
+0.90.182.46</span></a>     45.0%  20    2.6   2.5   2.3   2.7   0.0   -
+2   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/11.73.1.89"><span>11.=
+73.1.89</span></a>       0.0%   20    4.1   5.0   3.8   11.5  2.0   <a targ=
+et=3D"_blank" href=3D"http://bgp.he.net/AS749" title=3D"DNIC-AS-00749"><spa=
+n>749   US DNIC-00749</span></a>       <span title=3D""></span>
+3   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/11.95.58.89"><span>11=
+.95.58.89</span></a>      0.0%   20    2.1   3.1   2.0   14.0  2.8   <a tar=
+get=3D"_blank" href=3D"http://bgp.he.net/AS749" title=3D"DNIC-AS-00749"><sp=
+an>749   US DNIC-00749</span></a>       <span title=3D""></span>
+4   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.102.96.233"><span>=
+10.102.96.233</span></a>    0.0%   20    2.8   4.4   2.5   21.6  4.9   -
+5   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.54.37.202"><span>1=
+0.54.37.202</span></a>     0.0%   20    3.2   3.8   3.1   8.5   1.4   -
+6   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/114.80.58.85"><span>1=
+14.80.58.85</span></a>     0.0%   20    4.0   4.6   3.6   12.0  2.3   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS4812" title=3D"CHINANET-SH-AP C=
+hina Telecom Group"><span>4812  CN CHINANET-SH-AP</span></a>   <span title=
+=3D""></span>
+7   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/101.95.209.125"><span=
+>101.95.209.125</span></a>   0.0%   20    5.2   4.5   4.1   6.5   0.5   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS4812" title=3D"CHINANET-SH-AP=
+ China Telecom Group"><span>4812  CN CHINANET-SH-AP</span></a>   <span titl=
+e=3D""></span>
+8   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/101.95.218.65"><span>=
+101.95.218.65</span></a>    0.0%   20    5.1   5.1   5.0   5.3   0.0   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS4812" title=3D"CHINANET-SH-AP =
+China Telecom Group"><span>4812  CN CHINANET-SH-AP</span></a>   <span title=
+=3D""></span>
+9   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/202.97.24.134"><span>=
+202.97.24.134</span></a>    0.0%   20    8.1   10.2  6.6   17.7  3.4   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKBO=
+NE No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span =
+title=3D""></span>
+10  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/202.97.90.29"><span>2=
+02.97.90.29</span></a>     60.0%  20    5.3   5.2   5.1   5.3   0.0   <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKBON=
+E No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span t=
+itle=3D""></span>
+11  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/202.97.71.198"><span>=
+202.97.71.198</span></a>    0.0%   20    167.1 167.2 163.9 170.8 1.8   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKBO=
+NE No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span =
+title=3D""></span>
+12  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/218.30.53.214"><span>=
+218.30.53.214</span></a>    10.0%  20    205.6 230.4 205.5 263.8 16.6  <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKBO=
+NE No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span =
+title=3D""></span>
+13  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.69.132.4"><span>1=
+72.69.132.4</span></a>     5.0%   20    215.1 221.1 193.7 234.4 10.0  <a ta=
+rget=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET">=
+<span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+14  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   5.0%   20    230.0 223.3 204.1 230.0 9.0   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+        <tr id=3D"ping-CN_211-tr">
+            <td id=3D"ping-CN_211-location">
+                China, Shanghai
+            </td>
+            <td id=3D"ping-CN_211-provider">
+                Aliyun
+            </td>
+            <td id=3D"ping-CN_211-mtr" style=3D"width:99%">
+                <span id=3D"td-CN_211-mtr-report-show" style=3D"color: rgb(=
+16, 224, 45); cursor: pointer;">show</span>
+                <span id=3D"td-CN_211-mtr-report-loading" style=3D"color: r=
+gb(96, 96, 96); display: none;">collecting data, please wait...</span>
+            </td>
+
+    </tr>
+    <tr id=3D"tr-CN_211-mtr-report" style=3D"background-color: rgb(0, 24, 0=
+); outline: rgb(16, 37, 16) solid 1px;">
+        <td colspan=3D"99">
+            <pre class=3D"mtr_report"><span id=3D"span-CN_211-mtr-report">0=
+.  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/1.116.218.0"><span>1.1=
+16.218.0</span></a>      Loss%  Snt   Last  Avg   Best  Wrst  StDev AS Name=
+                         PTR
+1   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/9.193.28.129"><span>9=
+.193.28.129</span></a>     0.0%   20    1.8   2.0   1.6   3.7   0.2   -
+2   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/9.193.56.162"><span>9=
+.193.56.162</span></a>     10.0%  20    2.2   2.1   1.6   4.2   0.5   -
+3   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/10.196.52.245"><span>=
+10.196.52.245</span></a>    25.0%  20    0.8   0.7   0.5   1.1   0.0   -
+4   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/101.226.210.77"><span=
+>101.226.210.77</span></a>   70.0%  20    1.8   1.9   1.7   2.8   0.0   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS4812" title=3D"CHINANET-SH-AP=
+ China Telecom Group"><span>4812  CN CHINANET-SH-AP</span></a>   <span titl=
+e=3D""></span>
+5   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/101.95.247.137"><span=
+>101.95.247.137</span></a>   75.0%  20    2.9   3.5   2.8   5.9   1.1   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS4812" title=3D"CHINANET-SH-AP=
+ China Telecom Group"><span>4812  CN CHINANET-SH-AP</span></a>   <span titl=
+e=3D""></span>
+6   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/101.95.224.137"><span=
+>101.95.224.137</span></a>   0.0%   20    2.8   2.8   2.7   3.0   0.0   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS4812" title=3D"CHINANET-SH-AP=
+ China Telecom Group"><span>4812  CN CHINANET-SH-AP</span></a>   <span titl=
+e=3D""></span>
+7   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/???"><span>???</span>=
+</a>              100.0  20    0.0   0.0   0.0   0.0   0.0   -
+8   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/???"><span>???</span>=
+</a>              100.0  20    0.0   0.0   0.0   0.0   0.0   -
+9   <a target=3D"_blank" href=3D"http://bgp.he.net/ip/202.97.71.198"><span>=
+202.97.71.198</span></a>    0.0%   20    166.2 170.2 162.2 179.7 5.0   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKBO=
+NE No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span =
+title=3D""></span>
+10  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/218.30.53.214"><span>=
+218.30.53.214</span></a>    0.0%   20    131.2 138.7 127.5 176.0 18.2  <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS4134" title=3D"CHINANET-BACKBO=
+NE No.31,Jin-rong Street"><span>4134  CN CHINANET-BACKBON</span></a> <span =
+title=3D""></span>
+11  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/162.158.164.4"><span>=
+162.158.164.4</span></a>    0.0%   20    140.9 139.7 137.5 152.7 3.6   <a t=
+arget=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET"=
+><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+12  <a target=3D"_blank" href=3D"http://bgp.he.net/ip/172.67.168.127"><span=
+>172.67.168.127</span></a>   5.0%   20    137.6 131.6 125.8 137.9 4.5   <a =
+target=3D"_blank" href=3D"http://bgp.he.net/AS13335" title=3D"CLOUDFLARENET=
+"><span>13335 US CLOUDFLARENET</span></a>    <span title=3D""></span>
+</span></pre>
+        </td>
+    </tr>
+   =20
+   </tbody></table>
+       =20
+
+<span id=3D"screenshot-button-span">[<a href=3D"file:///C:/Users/%E5%85%B0%=
+E6%9E%97%E6%B3%A2/Downloads/mtr%20newhongqi.org.htm#" id=3D"screenshot-butt=
+on">Save as image</a>]</span>
+<span id=3D"screenshot-button-span-disabled" style=3D"">[saving image...]</=
+span>
+
+
+
+<span style=3D"color: rgb(128, 128, 128); float: right;" id=3D"watermark">R=
+eport created by ping.pe</span>
+
+<span style=3D"color:#a0a0a0;float:right; display:none" id=3D"image-link-in=
+put-span"> Image:
+    <input id=3D"image-link-input" type=3D"text" style=3D"width:500px; bord=
+er: 1px solid #000000; background-color:#202020; color:#a0a0a0" readonly=3D=
+"readonly">
+</span>
+
+
+<br><br>
+<div style=3D"color:#808080;max-height: 999999px;">
+Test started: <span id=3D"test-started">Fri Jan 27 2023 01:34:02 GMT+0800 (=
+=E6=96=B0=E5=8A=A0=E5=9D=A1=E6=A0=87=E5=87=86=E6=97=B6=E9=97=B4)</span>
+<br>
+Last update: <span id=3D"last-update-spinner">=E2=80=94</span><span id=3D"l=
+ast-update">Fri Jan 27 2023 01:23:09 GMT+0800 (Singapore Standard Time)</sp=
+an><span id=3D"debug-span"></span>
+<br><br>
+</div>
+
+
+
+
+</div>
+
+<table style=3D"background-color:#000000; width:100%; margin:0px; padding:0=
+px" cellspacing=3D"0" cellpadding=3D"0">
+<tbody><tr>
+<td>
+
+    <div id=3D"footer" style=3D"padding-top:40px; color:#c0c0c0">
+    Feedback: pingpebox@gmail.com | <a href=3D"https://mtr.ping.pe/about" s=
+tyle=3D"color:#c0c0c0">About ping.pe</a><br>
+    </div>
+</td>
+</tr>
+</tbody></table>
+
+
+</div>
+
+
+</body></html>
+------MultipartBoundary--L5KqrmSzouKfXAHe1uoCRLI1hcCbmmADzaljoiyOFA----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-cf2a8e5d-0b9f-4bca-9470-43635cc93f71@mhtml.blink
+
+@charset "utf-8";
+
+@font-face { font-family: "Roboto Mono"; font-style: normal; font-weight: 4=
+00; src: url("/font/roboto/roboto-mono-latin.woff2") format("woff2"); unico=
+de-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-=
+206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFF=
+D; }
+
+:root { color-scheme: dark; }
+
+input, button { padding: 7px; }
+
+@media only screen and (max-width: 700px) {
+  input, button { font-size: 2em; }
+}
+
+.input_settings { background-color: rgb(0, 32, 0); border: 1px solid rgb(21=
+, 80, 21); color: rgb(224, 224, 224); }
+
+.button_settings { background-color: rgb(0, 32, 0); border: 1px solid rgb(2=
+1, 80, 21); color: rgb(224, 224, 224); }
+
+p { max-height: 999999px; text-size-adjust: none; }
+
+div { max-height: 999999px; text-size-adjust: none; }
+
+body { background-color: rgb(0, 0, 0); font-family: "Roboto Mono", Consolas=
+, "Courier New", Courier, monospace; font-size: 14px; color: rgb(240, 240, =
+240); line-height: 1.5em; text-size-adjust: none; }
+
+a { color: rgb(240, 240, 240); }
+
+td { padding-top: 3px; padding-bottom: 3px; vertical-align: top; }
+
+@media only screen and (max-width: 700px) {
+  input, button { font-size: 200%; }
+}
+
+table { padding-left: 0px; padding-right: 0px; }
+
+.span_usage_command { color: rgb(255, 255, 255); }
+
+.div_error { background-color: rgb(96, 0, 0); padding: 10px; margin-top: 10=
+px; margin-bottom: 10px; color: rgb(240, 224, 224); border-radius: 5px; bor=
+der: 1px solid rgb(112, 48, 48); }
+
+.switch { position: relative; display: inline-block; width: 60px; height: 3=
+4px; }
+
+.switch input { opacity: 0; width: 0px; height: 0px; }
+
+.slider { position: absolute; cursor: pointer; inset: 0px; background-color=
+: rgb(204, 204, 204); transition: all 0.2s ease 0s; }
+
+.slider::before { position: absolute; content: ""; height: 26px; width: 26p=
+x; left: 4px; bottom: 4px; background-color: white; transition: all 0.2s ea=
+se 0s; }
+
+input:checked + .slider { background-color: rgb(33, 150, 243); }
+
+input:focus + .slider { box-shadow: rgb(33, 150, 243) 0px 0px 1px; }
+
+input:checked + .slider::before { transform: translateX(26px); }
+
+.slider.round { border-radius: 34px; }
+
+.slider.round::before { border-radius: 50%; }
+
+#page-div { background-color: rgb(0, 0, 0); }
+
+.pingtable table { line-height: 0.8em; border-spacing: 0px; font-family: Co=
+nsolas, "Courier New", Courier, monospace; }
+
+table.pingtable td { width: 66px; cursor: default; text-align: left; paddin=
+g: 0px 7px 1px 3px; margin: 0px; white-space: nowrap; font-size: 13px; }
+
+table.pingtable td:first-child { width: 140px; }
+
+table.pingtable td:nth-child(2) { width: 150px; }
+
+table.pingtable th { padding: 2px 7px 1px 3px; margin: 0px; text-align: lef=
+t; color: black; background-color: rgb(0, 144, 0); }
+
+table.pingtable th:first-child { border-top-left-radius: 3px; border-bottom=
+-left-radius: 3px; }
+
+table.pingtable th:last-child { border-top-right-radius: 3px; border-bottom=
+-right-radius: 3px; }
+
+table.pingtable tr { margin: 0px; padding: 0px; }
+
+.mtr_report { color: rgb(48, 224, 80); font-size: 14px; line-height: 130%; =
+font-family: "Roboto Mono", Consolas, "Courier New", Courier, monospace; }
+
+pre.mtr_report a { color: rgb(16, 71, 24); text-decoration: underline; text=
+-size-adjust: none; }
+
+pre.mtr_report a span { color: rgb(48, 224, 80); text-decoration: none; tex=
+t-size-adjust: none; }
+------MultipartBoundary--L5KqrmSzouKfXAHe1uoCRLI1hcCbmmADzaljoiyOFA------
