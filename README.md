@@ -1,7 +1,7 @@
 # Hi comrades! / 同志，你好！ 👋
 
 Here's RetsuAkiko. <br>
-这里是烈覺子。
+这里是烈明子。
 
 ## Intro | 简介
 
@@ -19,6 +19,9 @@ Session:<br>
 Mastodon:<br>
 [@retsuakiko_sg@mstdn.social](https://mstdn.social/@retsuakiko_sg)
 <br>
+
+## PGP Fingerprint
+4763 73FC B3B2 8C02 1ACF E101 AE2C 4AF4 6AE3 D657
 
 <br>
 
